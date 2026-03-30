@@ -1,0 +1,183 @@
+,title,conference,year,paper_url
+0,Conference on Learning Theory 2025: Preface,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/haghtalab25a/haghtalab25a.pdf
+1,Optimistic Q-learning for average reward and episodic reinforcement learning extended abstract,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/agrawal25a/agrawal25a.pdf
+2,Computable learning of natural hypothesis classes,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/akbari25a/akbari25a.pdf
+3,Better Private Distribution Testing by Leveraging Unverified Auxiliary Data,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/aliakbarpour25a/aliakbarpour25a.pdf
+4,Regret Bounds for Robust Online Decision Making,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/appel25a/appel25a.pdf
+5,Simplifying Adversarially Robust PAC Learning With Tolerance,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/ashtiani25a/ashtiani25a.pdf
+6,Computational Intractability of Strategizing against Online Learners,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/assos25a/assos25a.pdf
+7,Testing Thresholds and Spectral Properties of High-Dimensional Random Toroidal Graphs via Edgeworth-Style Expansions,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/baguley25a/baguley25a.pdf
+8,Faster Acceleration for Steepest Descent,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/bai25a/bai25a.pdf
+9,Thompson Sampling for Bandit Convex Optimisation,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/bakhtiari25a/bakhtiari25a.pdf
+10,Metric Embeddings Beyond Bi-Lipschitz Distortion via Sherali-Adams,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/bakshi25a/bakshi25a.pdf
+11,How to safely discard features based on aggregate SHAP values,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/bhattacharjee25a/bhattacharjee25a.pdf
+12,Optimal Graph Reconstruction by Counting Connected Components in Induced Subgraphs,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/black25a/black25a.pdf
+13,Learning Partitions with Optimal Query and Round Complexities,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/black25b/black25b.pdf
+14,A Distributional-Lifting Theorem for PAC Learning,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/blanc25a/blanc25a.pdf
+15,Stability and List-Replicability for Agnostic Learners,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/blondal25a/blondal25a.pdf
+16,Proofs as Explanations: Short Certificates for Reliable Predictions,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/blum25a/blum25a.pdf
+17,Accelerating Proximal Gradient Descent via Silver Stepsizes,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/bok25a/bok25a.pdf
+18,Logarithmic regret of exploration in average reward Markov decision processes,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/boone25a/boone25a.pdf
+19,Partial and Exact Recovery of a Random Hypergraph from its Graph Projection,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/bresler25a/bresler25a.pdf
+20,Computational Equivalence of Spiked Covariance and Spiked Wigner Models via Gram-Schmidt Perturbation,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/bresler25b/bresler25b.pdf
+21,Of Dice and Games: A Theory of Generalized Boosting,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/bressan25a/bressan25a.pdf
+22,A Fine-grained Characterization of PAC Learnability,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/bressan25b/bressan25b.pdf
+23,On the Convergence of Min-Max Langevin Dynamics and Algorithm,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/cai25a/cai25a.pdf
+24,What Makes Treatment Effects Identifiable? Characterizations and Estimators Beyond Unconfoundedness (Extended Abstract),colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/cai25b/cai25b.pdf
+25,Information-theoretic reduction of deep neural networks to linear models in the overparametrized proportional regime,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/camilli25a/camilli25a.pdf
+26,Market Making without Regret,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/cesa-bianchi25a/cesa-bianchi25a.pdf
+27,Towards Fair Representation: Clustering and Consensus,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/chakraborty25a/chakraborty25a.pdf
+28,Exploring Facets of Language Generation in the Limit,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/charikar25a/charikar25a.pdf
+29,Deterministic Apple Tasting,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/chase25a/chase25a.pdf
+30,DiscQuant: A Quantization Method for Neural Networks Inspired by Discrepancy Theory,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/chee25a/chee25a.pdf
+31,Solving Convex-Concave Problems with $\mathcal{O}(\epsilon^{-4/7})$ Second-Order Oracle Complexity,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/chen25a/chen25a.pdf
+32,"Decision Making in Changing Environments: Robustness, Query-Based Learning, and Differential Privacy",colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/chen25b/chen25b.pdf
+33,Predicting quantum channels over general product distributions,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/chen25c/chen25c.pdf
+34,Improved sample upper and lower bounds for trace estimation of quantum state powers,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/chen25d/chen25d.pdf
+35,Learning general Gaussian mixtures with efficient score matching,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/chen25e/chen25e.pdf
+36,Algorithms for Sparse LPN and LSPN Against Low-noise (extended abstract),colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/chen25f/chen25f.pdf
+37,"Optimization, Isoperimetric Inequalities, and Sampling via Lyapunov Potentials",colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/chen25g/chen25g.pdf
+38,Heavy-tailed Estimation is Easier than Adversarial Contamination,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/cherapanamjeri25a/cherapanamjeri25a.pdf
+39,The Space Complexity of Learning-Unlearning Algorithms (extended abstract),colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/cherapanamjeri25b/cherapanamjeri25b.pdf
+40,Quantum State and Unitary Learning Implies Circuit Lower Bounds,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/chia25a/chia25a.pdf
+41,Stochastic block models with many communities and the Kesten–Stigum bound - extended abstract,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/chin25a/chin25a.pdf
+42,Spherical Dimension,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/chornomaz25a/chornomaz25a.pdf
+43,Lower Bounds for Greedy Teaching Set Constructions,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/compton25a/compton25a.pdf
+44,Non-Euclidean High-Order Smooth Convex Optimization Extended Abstract,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/contreras25a/contreras25a.pdf
+45,Low-dimensional Functions are Efficiently Learnable under Randomly Biased Distributions,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/cornacchia25a/cornacchia25a.pdf
+46,Non-Monetary Mechanism Design without Distributional Information: Using Scarce Audits Wisely (Extended Abstract),colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/dai25a/dai25a.pdf
+47,Existence of Adversarial Examples for Random Convolutional Networks via  Isoperimetric Inequalities on $\mathbb{SO}(d)$,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/daniely25a/daniely25a.pdf
+48,Rate-Preserving Reductions for Blackwell Approachability,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/dann25a/dann25a.pdf
+49,Low-rank fine-tuning lies between lazy training and feature learning,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/dayi25a/dayi25a.pdf
+50,Learning Intersections of Two Margin Halfspaces under Factorizable Distributions,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/diakonikolas25a/diakonikolas25a.pdf
+51,Faster Algorithms for Agnostically Learning Disjunctions and their Implications,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/diakonikolas25b/diakonikolas25b.pdf
+52,A Proof of The Changepoint Detection Threshold Conjecture in Preferential Attachment Models,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/du25a/du25a.pdf
+53,From Fairness to Infinity: Outcome-Indistinguishable (Omni)Prediction in Evolving Graphs,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/dwork25a/dwork25a.pdf
+54,Logarithmic Width Suffices for Robust Memorization,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/egosi25a/egosi25a.pdf
+55,Detecting Arbitrary Planted Subgraphs in Random Graphs,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/elimelech25a/elimelech25a.pdf
+56,Universality of High-Dimensional Logistic Regression and a Novel CGMT under Dependence with Applications to Data Augmentation,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/esmaili-mallory25a/esmaili-mallory25a.pdf
+57,Learning Augmented Graph $k$-Clustering,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/fan25a/fan25a.pdf
+58,Trade-offs in Data Memorization via Strong Data Processing Inequalities,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/feldman25a/feldman25a.pdf
+59,Approximating the total variation distance between spin systems,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/feng25a/feng25a.pdf
+60,Is a Good Foundation Necessary for Efficient Reinforcement Learning? The Computational Role of the Base Model in Exploration,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/foster25a/foster25a.pdf
+61,An uncertainty principle for Linear Recurrent Neural Networks,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/francois25a/francois25a.pdf
+62,Complexity of Injectivity and Verification of ReLU Neural Networks (Extended Abstract),colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/froese25a/froese25a.pdf
+63,"Bayes correlated equilibria, no-regret dynamics in Bayesian games, and the price of anarchy",colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/fujii25a/fujii25a.pdf
+64,Gradient Methods with Online Scaling,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/gao25a/gao25a.pdf
+65,Computing High-dimensional Confidence Sets for Arbitrary Distributions,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/gao25b/gao25b.pdf
+66,Blackwell’s Approachability with Approximation Algorithms,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/garber25a/garber25a.pdf
+67,Faster Low-Rank Approximation and Kernel Ridge Regression via the Block-Nyström Method,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/garg25a/garg25a.pdf
+68,Model predictive control is almost optimal for restless bandits,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/gast25a/gast25a.pdf
+69,Computing Optimal Regularizers for Online Linear Optimization,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/gatmiry25a/gatmiry25a.pdf
+70,Learning Mixtures of Gaussians Using Diffusion Models,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/gatmiry25b/gatmiry25b.pdf
+71,“All-Something-Nothing” Phase Transitions in Planted $k$-Factor Recovery (Extended Abstract),colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/gaudio25a/gaudio25a.pdf
+72,PREM: Privately Answering Statistical Queries with Relative Error,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/ghazi25a/ghazi25a.pdf
+73,Mean-field analysis of polynomial-width two-layer neural network beyond finite time horizon,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/glasgow25a/glasgow25a.pdf
+74,"Tight Bounds for Noisy Computation of High-Influence Functions, Connectivity, and Threshold",colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/gu25a/gu25a.pdf
+75,Agnostic Learning of Arbitrary ReLU Activation under Gaussian Marginals,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/guo25a/guo25a.pdf
+76,Alternating Regret for Online Convex Optimization,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/hait25a/hait25a.pdf
+77,Data Selection for ERMs,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/hanneke25a/hanneke25a.pdf
+78,Universal Rates of ERM for Agnostic Learning,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/hanneke25b/hanneke25b.pdf
+79,Universal Rates for Multiclass Learning with Bandit Feedback,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/hanneke25c/hanneke25c.pdf
+80,Compression Barriers in Autoregressive Transformers,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/haris25a/haris25a.pdf
+81,On the query complexity of sampling from non-log-concave distributions (extended abstract),colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/he25a/he25a.pdf
+82,Learning DNF through Generalized Fourier Representations,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/heidari25a/heidari25a.pdf
+83,Noisy Group Testing in the Linear Regime: Exact Thresholds and Efficient ,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/hintze25a/hintze25a.pdf
+84,Improved Margin Generalization Bounds for Voting Classifiers,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/hogsgaard-moller25a/hogsgaard-moller25a.pdf
+85,Polynomial low degree hardness for Broadcasting on Trees (Extended Abstract),colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/huang25a/huang25a.pdf
+86,Instance-Dependent Regret Bounds for Learning Two-Player Zero-Sum Games with Bandit Feedback,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/ito25a/ito25a.pdf
+87,Optimal Differentially Private Sampling of Unbounded Gaussians,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/iverson25a/iverson25a.pdf
+88,Local Regularizers Are Not Transductive Learners,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/jafar25a/jafar25a.pdf
+89,On the Minimax Regret of Sequential Probability Assignment via Square-Root Entropy,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/jia25a/jia25a.pdf
+90,"Regularized Dikin Walks for Sampling Truncated Logconcave Measures, Mixed Isoperimetry and Beyond Worst-Case Analysis",colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/jiang25a/jiang25a.pdf
+91,Online Covariance Estimation in Nonsmooth Stochastic Approximation,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/jiang25b/jiang25b.pdf
+92,Provable Complexity Improvement of AdaGrad over SGD: Upper and Lower Bounds in Stochastic Non-Convex Optimization,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/jiang25c/jiang25c.pdf
+93,Structure-agnostic Optimality of Doubly Robust Learning for Treatment Effect Estimation (Extended Abstract),colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/jin25a/jin25a.pdf
+94,A Theory of Learning with Autoregressive Chain of Thought,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/joshi25a/joshi25a.pdf
+95,The Sample Complexity of Distributed Simple Binary Hypothesis Testing under Information Constraints,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/kazemi25a/kazemi25a.pdf
+96,Experimental Design for Semiparametric Bandits,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/kim25a/kim25a.pdf
+97,Learning Constant-Depth Circuits in Malicious Noise Models,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/klivans25a/klivans25a.pdf
+98,Efficiently learning and sampling multimodal distributions with data-based initialization,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/koehler25a/koehler25a.pdf
+99,The Oracle Complexity of Simplex-based Matrix Games: Linear Separability and Nash Equilibria,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/kornowski25a/kornowski25a.pdf
+100,Spectral Estimators for Multi-Index Models: Precise Asymptotics and Optimal Weak Recovery,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/kovacevic25a/kovacevic25a.pdf
+101,The Role of Environment Access in Agnostic Reinforcement Learning (Extended Abstract),colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/krishnamurthy25a/krishnamurthy25a.pdf
+102,Spike-and-Slab Posterior Sampling in High Dimensions,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/kumar25a/kumar25a.pdf
+103,A Gap Between the Gaussian RKHS and Neural Networks: An Infinite-Center Asymptotic Analysis,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/kumar25b/kumar25b.pdf
+104,Low coordinate degree algorithms II: Categorical signals and generalized stochastic block models,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/kunisky25a/kunisky25a.pdf
+105,Fast and Furious Symmetric Learning in Zero-Sum Games: Gradient Descent as Fictitious Play,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/lazarsfeld25a/lazarsfeld25a.pdf
+106,The Fundamental Limits of Recovering Planted Subgraphs (extended abstract),colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/lee25a/lee25a.pdf
+107,Robust random graph matching in Gaussian models via vector approximate message passing,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/li25a/li25a.pdf
+108,Some easy optimization problems have the overlap-gap property,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/li25b/li25b.pdf
+109,A Polynomial-time Algorithm for Online Sparse Linear Regression with Improved Regret Bound under Weaker Conditions,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/li25c/li25c.pdf
+110,Multi-Pass Memory Lower Bounds for Learning Problems,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/li25d/li25d.pdf
+111,Private Realizable-to-Agnostic Transformation with Near-Optimal Sample Complexity,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/li25e/li25e.pdf
+112,Low-dimensional adaptation of diffusion models: Convergence in total variation (extended abstract),colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/liang25a/liang25a.pdf
+113,Characterizing Dependence of Samples along the Langevin Dynamics and Algorithms via Contraction of $Φ$-Mutual Information (Extended Abstract),colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/liang25b/liang25b.pdf
+114,Decision Making in Hybrid Environments: A Model Aggregation Approach,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/liu25a/liu25a.pdf
+115,Robust Algorithms for Recovering Planted $r$-Colorable Graphs,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/louis25a/louis25a.pdf
+116,"Sparsity-Based Interpolation of External, Internal and Swap Regret",colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/lu25a/lu25a.pdf
+117,Sample Efficient Omniprediction and Downstream Swap Regret for Non-Linear Losses,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/lu25b/lu25b.pdf
+118,Identifiability and Estimation in High-Dimensional Nonparametric Latent Structure Models,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/lyu25a/lyu25a.pdf
+119,Efficient Near-Optimal Algorithm for Online Shortest Paths in Directed Acyclic Graphs with Bandit Feedback Against Adaptive Adversaries,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/maiti25a/maiti25a.pdf
+120,Learning sparse generalized linear models with binary outcomes via iterative hard thresholding,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/matsumoto25a/matsumoto25a.pdf
+121,Online Convex Optimization with a Separation Oracle,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/mhammedi25a/mhammedi25a.pdf
+122,Sample and Oracle Efficient Reinforcement Learning for MDPs with Linearly-Realizable Value Functions,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/mhammedi25b/mhammedi25b.pdf
+123,The Planted Spanning Tree Problems: Exact Overlap Characterization via Local Weak Convergence Extended Abstract,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/moharrami25a/moharrami25a.pdf
+124,Beyond Worst-Case Online Classification: VC-Based Regret Bounds for Relaxed Benchmarks,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/montasser25a/montasser25a.pdf
+125,Optimistically Optimistic Exploration for Provably Efficient Infinite-Horizon Reinforcement and Imitation Learning,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/moulin25a/moulin25a.pdf
+126,Are all models wrong? Fundamental limits in distribution-free empirical model falsification,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/muller25a/muller25a.pdf
+127,"Sharper Bounds for Chebyshev Moment Matching, with Applications",colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/musco25a/musco25a.pdf
+128,"Estimating stationary mass, frequency by frequency",colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/nakul25a/nakul25a.pdf
+129,"Improved algorithms for learning quantum Hamiltonians, via flat polynomials",colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/narayanan25a/narayanan25a.pdf
+130,Data-dependent Bounds with $T$-Optimal Best-of-Both-Worlds Guarantees in Multi-Armed Bandits using Stability-Penalty Matching,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/nguyen25a/nguyen25a.pdf
+131,On the Hardness of Bandit Learning,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/brukhim25a/brukhim25a.pdf
+132,Learning Algorithms in the Limit,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/papazov25a/papazov25a.pdf
+133,Differentially Private Synthetic Graphs Preserving Triangle-Motif Cuts,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/peng25a/peng25a.pdf
+134,Recovering Labels from Crowdsourced Data: an Optimal and Polynomial-Time Method,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/pilliat25a/pilliat25a.pdf
+135,Optimal Robust Estimation under Local and Global Corruptions: Stronger Adversary and Smaller Error,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/pittas25a/pittas25a.pdf
+136,Lower Bounds for Private Estimation of Gaussian Covariance Matrices under All Reasonable Parameter Regimes,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/portella25a/portella25a.pdf
+137,Linear Convergence of Diffusion Models Under the Manifold Hypothesis,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/potaptchik25a/potaptchik25a.pdf
+138,Truthfulness of Decision-Theoretic Calibration Measures,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/qiao25a/qiao25a.pdf
+139,Generation through the lens of learning theory,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/raman25a/raman25a.pdf
+140,Metric Clustering and Graph Optimization Problems using Weak Comparison Oracles,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/raychaudhury25a/raychaudhury25a.pdf
+141,Computational-Statistical Tradeoffs at the Next-Token Prediction Barrier: Autoregressive and Imitation Learning under Misspecification (extended abstract),colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/rohatgi25a/rohatgi25a.pdf
+142,Necessary and Sufficient Oracles: Toward a Computational Taxonomy for Reinforcement Learning,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/rohatgi25b/rohatgi25b.pdf
+143,Can a calibration metric be both testable and actionable?,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/rossellini25a/rossellini25a.pdf
+144,Capacity-Constrained Online Learning with Delays: Scheduling Frameworks and Regret Trade-offs,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/ryabchenko25a/ryabchenko25a.pdf
+145,Improved Offline Contextual Bandits with Second-Order Bounds: Betting and Freezing,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/ryu25a/ryu25a.pdf
+146,New Lower Bounds for Non-Convex Stochastic Optimization through Divergence Decomposition,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/saad25a/saad25a.pdf
+147,Depth Separations in Neural Networks: Separating the Dimension from the Accuracy,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/safran25a/safran25a.pdf
+148,The late-stage training dynamics of (stochastic) subgradient descent on homogeneous neural networks,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/schechtman25a/schechtman25a.pdf
+149,Private List Learnability vs. Online List Learnability,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/hanneke25d/hanneke25d.pdf
+150,Testing Juntas and Junta Subclasses with Relative Error,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/chen25h/chen25h.pdf
+151,Testing (Conditional) Mutual Information - Extended Abstract,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/seyfried25a/seyfried25a.pdf
+152,The Pitfalls of Imitation Learning when Actions are Continuous,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/simchowitz25a/simchowitz25a.pdf
+153,Community detection with the Bethe-Hessian,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/stephan25a/stephan25a.pdf
+154,Non-convex matrix sensing: Breaking the quadratic rank barrier in the sample complexity Extended Abstract,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/stoger25a/stoger25a.pdf
+155,Optimal Online Bookmaking for Any Number of Outcomes,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/tal25a/tal25a.pdf
+156,Beyond propagation of chaos: A stochastic algorithm for mean field optimization,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/tankala25a/tankala25a.pdf
+157,Optimal Scheduling of Dynamic Transport,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/tsimpos25a/tsimpos25a.pdf
+158,Corrupted Learning Dynamics in Games,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/tsuchiya25a/tsuchiya25a.pdf
+159,Learning shallow quantum circuits with many-qubit gates,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/vasconcelos25a/vasconcelos25a.pdf
+160,Black-Box Reductions for Decentralized Online Convex Optimization in Changing Environments,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/wan25a/wan25a.pdf
+161,Learning Compositional Functions with Transformers from Easy-to-Hard Data,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/wang25a/wang25a.pdf
+162,Orthogonal Causal Calibration (Extended Abstract),colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/whitehouse25a/whitehouse25a.pdf
+163,Time-Uniform Self-Normalized Concentration for Vector-Valued Processes (Extended Abstract),colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/whitehouse25b/whitehouse25b.pdf
+164,Mixing Time of the Proximal Sampler in Relative Fisher Information via Strong Data Processing Inequality (Extended Abstract),colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/wibisono25a/wibisono25a.pdf
+165,Taking a Big Step: Large Learning Rates in Denoising Score Matching Prevent Memorization,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/wu25a/wu25a.pdf
+166,"Fundamental Limits of Matrix Sensing: Exact Asymptotics, Universality, and Applications",colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/xu25a/xu25a.pdf
+167,Generalization error bound for denoising score matching under relaxed manifold assumption,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/yakovlev25a/yakovlev25a.pdf
+168,Improved Algorithms for Effective Resistance Computation on Graphs,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/yichun25a/yichun25a.pdf
+169,Robustly Learning Monotone Generalized Linear Models via Data Augmentation,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/zarifis25a/zarifis25a.pdf
+170,Anytime Acceleration of Gradient Descent,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/zhang25a/zhang25a.pdf
+171,Fast and Multiphase Rates for Nearest Neighbor Classifiers,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/yang25a/yang25a.pdf
+172,Linear Bandits on Ellipsoids: Minimax Optimal Algorithms,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/zhang25b/zhang25b.pdf
+173,Towards Fundamental Limits for Active Multi-distribution Learning,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/zhang25c/zhang25c.pdf
+174,The Adaptive Complexity of Finding a Stationary Point,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/huanjian25a/huanjian25a.pdf
+175,Quantifying Overfitting along the Regularization Path for Two-Part-Code MDL in Supervised Classification,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/zhu25a/zhu25a.pdf
+176,Span-Agnostic Optimal Sample Complexity and Oracle Inequalities for Average-Reward RL,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/zurek25a/zurek25a.pdf
+177,Open Problem: Fixed-Parameter Tractability of Zonotope Problems,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/froese25b/froese25b.pdf
+178,Open Problem: Structure-Agnostic Minimax Risk for Partial Linear Model,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/gu25b/gu25b.pdf
+179,Open Problem: Data Selection for Regression Tasks,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/hanneke25e/hanneke25e.pdf
+180,Open Problem: Optimal Instance-Dependent Sample Complexity for finding Nash Equilibrium in Two Player Zero-Sum Matrix games,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/maiti25b/maiti25b.pdf
+181,Open Problem: Regret Minimization in Heavy-Tailed Bandits with Unknown Distributional Parameters,colt,2025,https://raw.githubusercontent.com/mlresearch/v291/main/assets/genalti25a/genalti25a.pdf

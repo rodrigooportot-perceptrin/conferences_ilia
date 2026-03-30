@@ -1,0 +1,86 @@
+,title,conference,year,paper_url
+0,Model Checking Linear Temporal Logic with Standpoint Modalities,kr,2025,https://proceedings.kr.org/2025/1/kr2025-0001-aghamov-et-al.pdf
+1,Presburger Functional Synthesis: Complexity and Tractable Normal Forms,kr,2025,https://proceedings.kr.org/2025/2/kr2025-0002-akshay-et-al.pdf
+2,Extending Abstract Argumentation Frameworks with Knowledge Bases,kr,2025,https://proceedings.kr.org/2025/3/kr2025-0003-alfano-et-al.pdf
+3,Axiomatic Characterisations of Argumentation Semantics,kr,2025,https://proceedings.kr.org/2025/4/kr2025-0004-amgoud.pdf
+4,Compactness and Preservation in Logical Argumentation Frameworks,kr,2025,https://proceedings.kr.org/2025/5/kr2025-0005-arieli-et-al.pdf
+5,Reasoning with Restricted Statistical Statements in Probabilistic Answer Set Programming: Complexity and Algorithms,kr,2025,https://proceedings.kr.org/2025/6/kr2025-0006-azzolini-et-al.pdf
+6,A Novel Framework for Reasoning over Optimization Problems in Probabilistic Answer Set Programming,kr,2025,https://proceedings.kr.org/2025/7/kr2025-0007-azzolini-et-al.pdf
+7,Counting Solutions Under Cardinality Constraints: Structure Counts in Counting,kr,2025,https://proceedings.kr.org/2025/8/kr2025-0008-bannach-et-al.pdf
+8,Guarded Fragments Meet Dynamic Logic: The Story of Regular Guards,kr,2025,https://proceedings.kr.org/2025/9/kr2025-0009-bednarczyk-et-al.pdf
+9,FastFound: Easing the ASP Bottleneck via Predicate-Decoupled Grounding,kr,2025,https://proceedings.kr.org/2025/10/kr2025-0010-beiser-et-al.pdf
+10,An Axiomatic Study of a Modular Evaluation of Enthymeme Decoding in Weighted Structured Argumentation,kr,2025,https://proceedings.kr.org/2025/11/kr2025-0011-ben-naim-et-al.pdf
+11,Sequence Explanations for Acceptance in Abstract Argumentation,kr,2025,https://proceedings.kr.org/2025/12/kr2025-0012-bengel-et-al.pdf
+12,A Reduct-based Approach to Skeptical Preferred Reasoning in Abstract Argumentation,kr,2025,https://proceedings.kr.org/2025/13/kr2025-0013-bengel-et-al.pdf
+13,On Strong and Weak Admissibility in Non-Flat Assumption-Based Argumentation,kr,2025,https://proceedings.kr.org/2025/14/kr2025-0014-berthold-et-al.pdf
+14,"Strategy Logic, Imperfect Information, and Hyperproperties",kr,2025,https://proceedings.kr.org/2025/15/kr2025-0015-beutner-et-al.pdf
+15,Tractable Responsibility Measures for Ontology-Mediated Query Answering,kr,2025,https://proceedings.kr.org/2025/16/kr2025-0016-bienvenu-et-al.pdf
+16,A Rule-Based Approach to Specifying Preferences over Conflicting Facts and Querying Inconsistent Knowledge Bases,kr,2025,https://proceedings.kr.org/2025/17/kr2025-0017-bienvenu-et-al.pdf
+17,Halting Recurrent GNNs and the Graded mu-Calculus,kr,2025,https://proceedings.kr.org/2025/18/kr2025-0018-bollen-et-al.pdf
+18,An Intuitionistic Version of Alternating-Time Temporal Logic,kr,2025,https://proceedings.kr.org/2025/19/kr2025-0019-bozzelli-et-al.pdf
+19,Finite Axiomatizability by Disjunctive Existential Rules,kr,2025,https://proceedings.kr.org/2025/20/kr2025-0020-calautti-et-al.pdf
+20,On the Complexity of Global Necessary Reasons to Explain Classification,kr,2025,https://proceedings.kr.org/2025/21/kr2025-0021-calautti-et-al.pdf
+21,Reasoning in Defeasible Description Logics with System W and Lexicographic Inference,kr,2025,https://proceedings.kr.org/2025/22/kr2025-0022-casini-et-al.pdf
+22,How Lucky Are You to Know Your Way? A Probabilistic Approach to Knowing How Logics,kr,2025,https://proceedings.kr.org/2025/23/kr2025-0023-castro-et-al.pdf
+23,Boolean Nearest Neighbor Language in the Knowledge Compilation Map,kr,2025,https://proceedings.kr.org/2025/24/kr2025-0024-cepek-et-al.pdf
+24,Belief Revision in a Probabilistic Setting,kr,2025,https://proceedings.kr.org/2025/25/kr2025-0025-delgrande-et-al.pdf
+25,On the Effects of Adding Assignments in Linear-Time Temporal Logics Modulo Theories,kr,2025,https://proceedings.kr.org/2025/26/kr2025-0026-demri-et-al.pdf
+26,Minimal Model Reasoning in Description Logics: Donât Try This at Home!,kr,2025,https://proceedings.kr.org/2025/27/kr2025-0027-di-stefano-et-al.pdf
+27,Grounding Rule-Based Argumentation Using Datalog,kr,2025,https://proceedings.kr.org/2025/28/kr2025-0028-diller-et-al.pdf
+28,An Information-Flow Perspective on Explainability Requirements: Specification and Verification,kr,2025,https://proceedings.kr.org/2025/29/kr2025-0029-finkbeiner-et-al.pdf
+29,Categorical Explaining Functors: Ensuring Coherence in Logical Explanations,kr,2025,https://proceedings.kr.org/2025/30/kr2025-0030-fioravanti-et-al.pdf
+30,Two-Variable Logic for Hierarchically Partitioned and Ordered Data,kr,2025,https://proceedings.kr.org/2025/31/kr2025-0031-fiuk-et-al.pdf
+31,A Logic-Based Framework for Database Repairs,kr,2025,https://proceedings.kr.org/2025/32/kr2025-0032-frohlich-et-al.pdf
+32,Fitting Description Logic Ontologies to ABox and Query Examples,kr,2025,https://proceedings.kr.org/2025/33/kr2025-0033-funk-et-al.pdf
+33,About the Multi-Head Linear Restricted Chase Termination,kr,2025,https://proceedings.kr.org/2025/34/kr2025-0034-gerlach-et-al.pdf
+34,Reasoning About Knowledge on Regular Expressions Is 2EXPTIME-Complete,kr,2025,https://proceedings.kr.org/2025/35/kr2025-0035-ghosh-et-al.pdf
+35,Putting Perspective into OWL [Sic]: Complexity-Neutral Standpoint Reasoning for Ontology Languages via Monodic S5 over Counting Two-Variable First-Order Logic,kr,2025,https://proceedings.kr.org/2025/36/kr2025-0036-gomez-alvarez-et-al.pdf
+36,A Framework for Inconsistency-tolerant Reasoning with Sets of Models,kr,2025,https://proceedings.kr.org/2025/37/kr2025-0037-hatab-et-al.pdf
+37,Repairing General Game Descriptions,kr,2025,https://proceedings.kr.org/2025/38/kr2025-0038-he-et-al.pdf
+38,An Analysis of the Role of Syntax in Inductive Inference,kr,2025,https://proceedings.kr.org/2025/39/kr2025-0039-heyninck-et-al.pdf
+39,Fitting Ontologies and Constraints to Relational Structures,kr,2025,https://proceedings.kr.org/2025/40/kr2025-0040-hosemann-et-al.pdf
+40,Complexity of Abduction in Åukasiewicz Logic,kr,2025,https://proceedings.kr.org/2025/41/kr2025-0041-inoue-et-al.pdf
+41,Effective AGM Belief Contraction: A Journey Beyond the Finitary Realm,kr,2025,https://proceedings.kr.org/2025/42/kr2025-0042-klumpp-et-al.pdf
+42,Abstractions of Queries in Ontology-Based Data Access,kr,2025,https://proceedings.kr.org/2025/43/kr2025-0043-leclere-et-al.pdf
+43,An Epistemic Theory of Deductive Arguments,kr,2025,https://proceedings.kr.org/2025/44/kr2025-0044-lorini.pdf
+44,Non-deterministic Action Reversibility: Complexity Results,kr,2025,https://proceedings.kr.org/2025/45/kr2025-0045-med-et-al.pdf
+45,Solving Unification in the Description Logic FL_bottom,kr,2025,https://proceedings.kr.org/2025/46/kr2025-0046-morawska-et-al.pdf
+46,Logical Expressivity and Explanations for Monotonic GNNs with Scoring Functions,kr,2025,https://proceedings.kr.org/2025/47/kr2025-0047-morris-et-al.pdf
+47,Faithful Differentiable Reasoning with Reshuffled Region-based Embeddings,kr,2025,https://proceedings.kr.org/2025/48/kr2025-0048-pavlovic-et-al.pdf
+48,A Methodology for Incompleteness-Tolerant and Modular Gradual Semantics for Argumentative Statement Graphs,kr,2025,https://proceedings.kr.org/2025/49/kr2025-0049-rago-et-al.pdf
+49,On Gradual Semantics for Assumption-Based Argumentation,kr,2025,https://proceedings.kr.org/2025/50/kr2025-0050-rapberger-et-al.pdf
+50,On the Complexity and Properties of Preferential Propositional Dependence Logic,kr,2025,https://proceedings.kr.org/2025/51/kr2025-0051-sauerwald-et-al.pdf
+51,Context-Based Belief Revision,kr,2025,https://proceedings.kr.org/2025/52/kr2025-0052-schwind.pdf
+52,Efficient Volume Computation for SMT Formulas,kr,2025,https://proceedings.kr.org/2025/53/kr2025-0053-shaw-et-al.pdf
+53,A Principle-based Framework for Analyzing Dialogue Game-based Semantics,kr,2025,https://proceedings.kr.org/2025/54/kr2025-0054-soto-et-al.pdf
+54,Pushdown Reward Machines for Reinforcement Learning,kr,2025,https://proceedings.kr.org/2025/55/kr2025-0055-varricchione-et-al.pdf
+55,Exploring Desirable Configurations in Global Logistics with Heuristic Search in Answer Set Programming,kr,2025,https://proceedings.kr.org/2025/56/kr2025-0056-altay-kern-et-al.pdf
+56,Model Checker for Recursive Aggregates,kr,2025,https://proceedings.kr.org/2025/57/kr2025-0057-alviano-et-al.pdf
+57,Interactive Exploration of Plan Spaces,kr,2025,https://proceedings.kr.org/2025/58/kr2025-0058-gnad-et-al.pdf
+58,Reasoning About Actual Causality in Answer Set Programming,kr,2025,https://proceedings.kr.org/2025/59/kr2025-0059-ozcan-et-al.pdf
+59,Can LLMs Solve ASP Problems? Insights from a Benchmarking Study,kr,2025,https://proceedings.kr.org/2025/60/kr2025-0060-ren-et-al.pdf
+60,ASP-Driven Visual Commonsense: A General Framework for Reasoning About Embodied Interaction in the Wild,kr,2025,https://proceedings.kr.org/2025/61/kr2025-0061-suchan-et-al.pdf
+61,A Tensor-Based Probabilistic Event Calculus,kr,2025,https://proceedings.kr.org/2025/62/kr2025-0062-tsilionis-et-al.pdf
+62,TRACE-CS: A Hybrid LogicâLLM System for Explainable Course Scheduling,kr,2025,https://proceedings.kr.org/2025/63/kr2025-0063-vasileiou-et-al.pdf
+63,Advances in Logic-Based Entity Resolution: Enhancing ASPEN with Local Merges and Optimality Criteria,kr,2025,https://proceedings.kr.org/2025/64/kr2025-0064-xiang-et-al.pdf
+64,An Embarrassingly Parallel Model Counter,kr,2025,https://proceedings.kr.org/2025/65/kr2025-0065-xu-et-al.pdf
+65,Expressive Description Logics with Rich Yet Affordable Numeric Constraints,kr,2025,https://proceedings.kr.org/2025/66/kr2025-0066-di-stefano-et-al.pdf
+66,Counterexample-Guided Abstraction Refinement for Assumption-based Argumentation,kr,2025,https://proceedings.kr.org/2025/67/kr2025-0067-lagniez-et-al.pdf
+67,Reasoning in Assumption-Based Argumentation via SAT,kr,2025,https://proceedings.kr.org/2025/68/kr2025-0068-niskanen-et-al.pdf
+68,LTL Synthesis Under Multi-Agent Environment Assumptions,kr,2025,https://proceedings.kr.org/2025/69/kr2025-0069-aminof-et-al.pdf
+69,Depth-Bounded Epistemic Planning,kr,2025,https://proceedings.kr.org/2025/70/kr2025-0070-bolander-et-al.pdf
+70,Learning General Policies from Examples,kr,2025,https://proceedings.kr.org/2025/71/kr2025-0071-bonet-et-al.pdf
+71,Automated Planning with Ontologies Under Coherence Update Semantics,kr,2025,https://proceedings.kr.org/2025/72/kr2025-0072-borgwardt-et-al.pdf
+72,Pushing the Envelope in Numeric Pattern Planning,kr,2025,https://proceedings.kr.org/2025/73/kr2025-0073-cardellini-et-al.pdf
+73,Pruning with Belief Traps in Multi-agent Epistemic Planning,kr,2025,https://proceedings.kr.org/2025/74/kr2025-0074-fang-et-al.pdf
+74,Cost-Optimal Delete-Free Classical Planning via Maximum Satisfiability,kr,2025,https://proceedings.kr.org/2025/75/kr2025-0075-feyzbakhsh-rankooh-et-al.pdf
+75,Counterfactual Scenarios for Automated Planning,kr,2025,https://proceedings.kr.org/2025/76/kr2025-0076-gigante-et-al.pdf
+76,Domain-Independent Instance Generation for Classical Planning,kr,2025,https://proceedings.kr.org/2025/77/kr2025-0077-grundke-et-al.pdf
+77,Emerson-Lei and Manna-Pnueli Games for LTLf+ and PPLTL+ Synthesis,kr,2025,https://proceedings.kr.org/2025/78/kr2025-0078-hausmann-et-al.pdf
+78,Representing Perfect Saturated Cost Partitioning Heuristics in Classical Planning,kr,2025,https://proceedings.kr.org/2025/79/kr2025-0079-hoft-et-al.pdf
+79,Learning Lifted Action Models from Traces of Incomplete Actions and States,kr,2025,https://proceedings.kr.org/2025/80/kr2025-0080-jansen-et-al.pdf
+80,Generalizing Platform-Aware Mission Planning for Infinite-State Timed Transition Systems,kr,2025,https://proceedings.kr.org/2025/81/kr2025-0081-panjkovic-et-al.pdf
+81,A Planning Compilation to Reason About Goal Achievement at Planning Time,kr,2025,https://proceedings.kr.org/2025/82/kr2025-0082-pozanco-et-al.pdf
+82,Explanations for Unrealizability of Infinite-State Safety Shields,kr,2025,https://proceedings.kr.org/2025/83/kr2025-0083-rodriguez-et-al.pdf
+83,Probabilistic HTN Planning: Formalization and Computational Complexity Analysis,kr,2025,https://proceedings.kr.org/2025/84/kr2025-0084-yousefi-et-al.pdf
+84,Probabilistic Active Goal Recognition,kr,2025,https://proceedings.kr.org/2025/85/kr2025-0085-zhang-et-al.pdf

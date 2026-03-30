@@ -1,0 +1,251 @@
+,title,conference,year,paper_url
+0,ResMoE: Space-efficient Compression of Mixture of Experts LLMs via Residual Restoration,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709196
+1,Hypergraph Motif Representation Learning,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709274
+2,Chainlet Orbits: Topological Address Embedding for Blockchain,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709322
+3,Correlation-Aware Graph Convolutional Networks for Multi-Label Node Classification,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709197
+4,Fast and Effective GNN Training through Sequences of Random Path Graphs,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709301
+5,How to use Graph Data in the Wild to Help Graph Anomaly Detection,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709320
+6,Safe Online Bid Optimization with Return on Investment and Budget Constraints,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709288
+7,Probabilistic Hypergraph Recurrent Neural Networks for Time-series Forecasting,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709202
+8,NodeImport: Imbalanced Node Classification with Node Importance Assessment,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709215
+9,Advancing Confidence Calibration and Quantification in Medication Recommendation,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709232
+10,Locally Balancing Signed Graphs,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709342
+11,Scalable Link Recommendation for Influence Maximization,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709190
+12,Seeing the Unseen in Micro-Video Popularity Prediction: Self-Correlation Retrieval for Missing Modality Generation,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709308
+13,Modeling Time-evolving Causality over Data Streams,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709283
+14,CSPI-MT: Calibrated Safe Policy Improvement with Multiple Testing for Threshold Policies,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709176
+15,Mixing Time Matters: Accelerating Effective Resistance Estimation via Bidirectional Method,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709298
+16,Fair Set Cover,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709184
+17,Revisiting Synthetic Human Trajectories: Imitative Generation and Benchmarks Beyond Datasaurus,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709180
+18,Large-Scale Spectral Graph Neural Networks via Laplacian Sparsification,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709241
+19,Personalized Language Model Learning on Text Data Without User Identifiers,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709211
+20,Stabilizing Modality Gap & Lowering Gradient Norms Improve Zero-Shot Adversarial Robustness of VLMs,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709296
+21,Conditional Generative Modeling for High-dimensional Marked Temporal Point Processes,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709258
+22,Bi-Dynamic Graph ODE for Opinion Evolution,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709297
+23,The k-Trine Cohesive Subgraph and Its Efficient Algorithms,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709174
+24,Dynamic Localisation of Spatial-Temporal Graph Neural Network,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709331
+25,IN-Flow: Instance Normalization Flow for Non-stationary Time Series Forecasting,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709260
+26,Efficient Large-Scale Traffic Forecasting with Transformers: A Spatial Data Management Perspective,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709177
+27,Forward Once for All: Structural Parameterized Adaptation for Efficient Cloud-coordinated On-device Recommendation,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709178
+28,FABind+: Enhancing Molecular Docking through Improved Pocket Prediction and Pose Generation,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709253
+29,Wedjat: Detecting Sophisticated Evasion Attacks via Real-time Causal Analysis,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709218
+30,Denoising Programming Knowledge Tracing with a Code Graph-based Tuning Adaptor,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709172
+31,Detecting Interpretable Subgroup Drifts,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709259
+32,Benchmarking Fraud Detectors on Private Graph Data,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709170
+33,Augmented Contrastive Clustering with Uncertainty-Aware Prototyping for Time Series Test Time Adaptation,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709239
+34,Revisiting Cognition in Neural Cognitive Diagnosis,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709319
+35,Adaptive Domain Inference Attack with Concept Hierarchy,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709332
+36,Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709216
+37,Lorentzian Residual Neural Networks,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709292
+38,UniGraph: Learning a Unified Cross-Domain Foundation Model for Text-Attributed Graphs,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709277
+39,D-Tracker: Modeling Interest Diffusion in Social Activity Tensor Data Streams,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709192
+40,InvDiff: Invariant Guidance for Bias Mitigation in Diffusion Models,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709165
+41,TransPlace: Transferable Circuit Global Placement via Graph Neural Network,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709185
+42,AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709321
+43,Multi-level Matching Network for Multimodal Entity Linking,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709306
+44,DIPS: Optimal Dynamic Index for Poisson πps Sampling,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709162
+45,Progressive Dependency Representation Learning for Stock Ranking in Uncertain Risk Contrasting,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709189
+46,Path Complex Neural Networks for Sequential Process Activities Classification,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709193
+47,On the Hyperparameter Loss Landscapes of Machine Learning Models: An Exploratory Study,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709229
+48,Partial Pre-Post Code Tree: A Memory-Efficient Tree Structure for Conjunctive Rule Mining,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709303
+49,Seeing the Unseen: Learning Basis Confounder Representations for Robust Traffic Prediction,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709201
+50,PipeRAG: Fast Retrieval-Augmented Generation via Adaptive Pipeline Parallelism,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709194
+51,Why Not Together? A Multiple-Round Recommender System for Queries and Items,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709261
+52,"On Measuring Unnoticeability of Graph Adversarial Attacks: Observations, New Measure, and Applications",kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709163
+53,Simplicial SMOTE: Oversampling Solution to the Imbalanced Learning Problem,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709268
+54,LH-Mix: Local Hierarchy Correlation Guided Mixup over Hierarchical Prompt Tuning,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709326
+55,CAPER: Enhancing Career Trajectory Prediction using Temporal Knowledge Graph and Ternary Relationship,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709329
+56,Reasoning-Enhanced Object-Centric Learning for Videos,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709168
+57,TSINR: Capturing Temporal Continuity via Implicit Neural Representations for Time Series Anomaly Detection,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709266
+58,Diversity Optimization for Travelling Salesman Problem via Deep Reinforcement Learning,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709181
+59,MGS3: A Multi-Granularity Self-Supervised Code Search Framework,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709263
+60,TSPRank: Bridging Pairwise and Listwise Methods with a Bilinear Travelling Salesman Model,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709234
+61,Exploring Preference-Guided Diffusion Model for Cross-Domain Recommendation,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709220
+62,Harnessing Scale and Physics: A Multi-Graph Neural Operator Framework for PDEs on Arbitrary Geometries,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709173
+63,APEX2: Adaptive and Extreme Summarization for Personalized Knowledge Graphs,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709213
+64,DistPred: A Distribution-Free Probabilistic Inference Method for Regression and Forecasting,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709286
+65,Learnable Prompt as Pseudo-Imputation: Rethinking the Necessity of Traditional EHR Data Imputation in Downstream Clinical Prediction,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709166
+66,Stealing Training Graphs from Graph Neural Networks,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709289
+67,Spectral Subspace Clustering for Attributed Graphs,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709207
+68,Learning Attribute as Explicit Relation for Sequential Recommendation,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709267
+69,SEPTQ: A Simple and Effective Post-Training Quantization Paradigm for Large Language Models,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709287
+70,SCode: A Spherical Code Metric Learning Approach to Continuously Monitoring Predictive Events in Networked Data,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709246
+71,Language Representation Favored Zero-Shot Cross-Domain Cognitive Diagnosis,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709281
+72,Fine-tuning Multimodal Large Language Models for Product Bundling,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709255
+73,3DGraphX: Explaining 3D Molecular Graph Models via Incorporating Chemical Priors,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709302
+74,Enhancing Unsupervised Graph Few-shot Learning via Set Functions and Optimal Transport,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709208
+75,MobileSteward: Integrating Multiple App-Oriented Agents with Self-Evolution to Automate Cross-App Instructions,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709171
+76,A Universal Model for Human Mobility Prediction,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709236
+77,Future Matters for Present: Towards Effective Physical Simulation over Meshes,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709340
+78,Fairness without Demographics through Learning Graph of Gradients,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709160
+79,Online Item Cold-Start Recommendation with Popularity-Aware Meta-Learning,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709336
+80,Dynamic Deep Clustering of High-Dimensional Directional Data via Hyperspherical Embeddings with Bayesian Nonparametric Mixtures,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709230
+81,Towards Controllable Hybrid Fairness in Graph Neural Networks,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709224
+82,Collaboration of Large Language Models and Small Recommendation Models for Device-Cloud Recommendation,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709335
+83,Task Diversity in Bayesian Federated Learning: Simultaneous Processing of Classification and Regression,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709341
+84,AutoSTF: Decoupled Neural Architecture Search for Cost-Effective Automated Spatio-Temporal Forecasting,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709323
+85,Diffusion-Inspired Cold Start with Sufficient Prior in Computerized Adaptive Testing,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709317
+86,Achieving Nearly-Optimal Regret and Sample Complexity in Dueling Bandits with Applications in Online Recommendations,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709279
+87,On the Support Vector Effect in DNNs: Rethinking Data Selection and Attribution,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709295
+88,Enhancing Black-Box Adversarial Attacks on Discrete Sequential Data via Bilevel Bayesian Optimization in Hybrid Spaces,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709265
+89,Attribute-Enhanced Similarity Ranking for Sparse Link Prediction,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709314
+90,Conservation-informed Graph Learning for Spatiotemporal Dynamics Prediction,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709244
+91,Data Glitches Discovery using Influence-based Model Explanations,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709285
+92,Electron-Informed Coarse-Graining Molecular Representation Learning for Real-World Molecular Physics,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709270
+93,Weight-Constrained Simple Path Enumeration in Weighted Graph,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709310
+94,Distributional Prototype Learning for Out-of-distribution Detection,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709294
+95,On the Necessity of World Knowledge for Mitigating Missing Labels in Extreme Classification,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709290
+96,Understanding the Effect of Loss Functions on the Generalization of Recommendations,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709169
+97,Input Snapshots Fusion for Scalable Discrete-Time Dynamic Graph Neural Networks,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709316
+98,Tackling the Length Barrier: Dynamic Context Browsing for Knowledge-Intensive Task,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709240
+99,Adapting to Generalized Online Label Shift by Invariant Representation Learning,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709182
+100,Quantum Time-index Models with Reservoir for Time Series Forecasting,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709228
+101,DUET: Dual Clustering Enhanced Multivariate Time Series Forecasting,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709325
+102,Fast Causal Discovery by Approximate Kernel-based Generalized Score Functions with Linear Computational Complexity,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709338
+103,ST-MTM: Masked Time Series Modeling with Seasonal-Trend Decomposition for Time Series Forecasting,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709254
+104,Abductive Learning for Neuro-Symbolic Grounded Imitation,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709344
+105,Exploring Heterogeneity and Uncertainty for Graph-based Cognitive Diagnosis Models in Intelligent Education,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709264
+106,HeavyLocker: Lock Heavy Hitters in Distributed Data Streams,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709167
+107,Off-Policy Evaluation and Learning for the Future under Non-Stationarity,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709237
+108,Covering Cracks in Content Moderation: Delexicalized Distant Supervision for Illicit Drug Jargon Detection,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709183
+109,Counterfactual Explanations with Probabilistic Guarantees on their Robustness to Model Change,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709300
+110,CLEAR: Addressing Representation Contamination in Multimodal Healthcare Analytics,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709164
+111,A Unified Invariant Learning Framework for Graph Classification,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709203
+112,Handling Feature Heterogeneity with Learnable Graph Patches,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709242
+113,Robust Uplift Modeling with Large-Scale Contexts for Real-time Marketing,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709293
+114,R2MR: Review and Rewrite Modality for Recommendation,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709250
+115,Spatially Compact Dense Block Mining in Spatial Tensors,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709221
+116,MLDGG: Meta-Learning for Domain Generalization on Graphs,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709188
+117,From Missteps to Mastery: Enhancing Low-Resource Dense Retrieval through Adaptive Query Generation,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709225
+118,GROOT: Effective Design of Biological Sequences with Limited Experimental Data,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709291
+119,How Well Calibrated are Extreme Multi-label Classifiers? An Empirical Analysis,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709333
+120,Scaling the Vocabulary of Non-autoregressive Models for Fast Generative Retrieval,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709330
+121,Interpretable Prediction and Feature Selection for Survival Analysis,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709245
+122,Dynamic Causal Structure Discovery and Causal Effect Estimation,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709345
+123,Asymmetrical Reciprocity-based Federated Learning for Resolving Disparities in Medical Diagnosis,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709235
+124,CoopRide: Cooperate All Grids in City-Scale Ride-Hailing Dispatching with Multi-Agent Reinforcement Learning,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709205
+125,An Efficient Diffusion-based Non-Autoregressive Solver for Traveling Salesman Problem,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709343
+126,Robust Fast Adaptation from Adversarially Explicit Task Distribution Generation,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709337
+127,GraphTool-Instruction: Revolutionizing Graph Reasoning in LLMs through Decomposed Subtask Instruction,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709238
+128,Embedding Prior Task-specific Knowledge into Language Models for Context-aware Document Ranking,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709282
+129,Mitigating Redundancy in Deep Recommender Systems: A Field Importance Distribution Perspective,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709275
+130,Graph Triple Attention Networks: A Decoupled Perspective,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709223
+131,Runtime-Aware Pipeline for Vertical Federated Learning with Bounded Model Staleness,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709243
+132,Noise-Resilient Point-wise Anomaly Detection in Time Series Using Weak Segment Labels,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709257
+133,Connecting Domains and Contrasting Samples: A Ladder for Domain Generalization,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709280
+134,Progressive Generalization Risk Reduction for Data-Efficient Causal Effect Estimation,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709305
+135,FLMarket: Enabling Privacy-preserved Pre-training Data Pricing for Federated Learning,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709346
+136,Feature Selection for Network Intrusion Detection,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709339
+137,Classifying Treatment Responders: Bounds and Algorithms,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709191
+138,Breaking the Memory Wall for Heterogeneous Federated Learning via Progressive Training,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709284
+139,ProgDiffusion: Progressively Self-encoding Diffusion Models,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709222
+140,ProST: Prompt Future Snapshot on Dynamic Graphs for Spatio-Temporal Prediction,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709273
+141,Brain Effective Connectivity Estimation via Fourier Spatiotemporal Attention,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709226
+142,ScalaGBM: Memory Efficient GBDT Training for High-Dimensional Data on GPU,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709271
+143,Incremental Label Distribution Learning,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709318
+144,Neural Network Pruning for Invariance Learning,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709262
+145,"MM-Path: Multi-modal, Multi-granularity Path Representation Learning",kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709209
+146,Succinct Interaction-Aware Explanations,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709175
+147,Fast and Accurate Temporal Hypergraph Representation for Hyperedge Prediction,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709327
+148,Learning Universal Multi-level Market Irrationality Factors to Improve Stock Return Forecasting,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709328
+149,Causal Discovery from Shifted Multiple Environments,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709247
+150,Mixed Blessing: Class-Wise Embedding guided Instance-Dependent Partial Label Learning,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709276
+151,CausalMob: Causal Human Mobility Prediction with LLMs-derived Human Intentions toward Public Events,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709231
+152,GraphLoRA: Structure-Aware Contrastive Low-Rank Adaptation for Cross-Graph Transfer Learning,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709186
+153,PraFFL: A Preference-Aware Scheme in Fair Federated Learning,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709217
+154,Benchmarking and Defending against Indirect Prompt Injection Attacks on Large Language Models,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709179
+155,Inductive Link Prediction on N-ary Relational Facts via Semantic Hypergraph Reasoning,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709195
+156,Generalizable Recommender System During Temporal Popularity Distribution Shifts,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709299
+157,Non-Homophilic Graph Pre-Training and Prompt Learning,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709219
+158,Annotation-guided Protein Design with Multi-Level Domain Alignment,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709199
+159,Boosting Explainability through Selective Rationalization in Pre-trained Language Models,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709212
+160,A Structure-aware Invariant Learning Framework for Node-level Graph OOD Generalization,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709227
+161,Combinatorial Optimization Perspective based Framework for Multi-behavior Recommendation,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709278
+162,Semi-supervised Multi-view Clustering with Active Constraints,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709204
+163,DimCL: Dimension-Aware Augmentation in Contrastive Learning for Recommendation,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709200
+164,Generalizing Personalized Federated Graph Augmentation via Min-max Adversarial Learning,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709311
+165,PrivDPR: Synthetic Graph Publishing with Deep PageRank under Differential Privacy,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709334
+166,GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709304
+167,LLM-Eraser: Optimizing Large Language Model Unlearning through Selective Pruning,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709312
+168,IDentity with Locality: An Ideal Hash for Gene Sequence Search,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709233
+169,Understanding and Mitigating Hyperbolic Dimensional Collapse in Graph Contrastive Learning,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709249
+170,Way to Specialist: Closing Loop Between Specialized LLM and Evolving Domain Knowledge Graph,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709187
+171,Can Large Language Models Improve the Adversarial Robustness of Graph Neural Networks,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709256
+172,Proactive Model Adaptation Against Concept Drift for Online Time Series Forecasting,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709210
+173,Stable Representation Learning on Graphs from Multiple Environments with Structure Distribution Shift,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709269
+174,Understanding Oversmoothing in Diffusion-Based GNNs From the Perspective of Operator Semigroup Theory,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709324
+175,Graph Learning with Distributional Edge Layouts,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709206
+176,Variational Graph Autoencoder for Heterogeneous Information Networks with Missing and Inaccurate Attributes,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709251
+177,Graph Contrastive Learning with Progressive Augmentations,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709307
+178,Towards Context-Aware Traffic Classification via Time-Wavelet Fusion Network,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709315
+179,Enhancing Graph Contrastive Learning with Reliable and Informative Augmentation for Recommendation,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709214
+180,A Two-Stage Pretraining-Finetuning Framework for Treatment Effect Estimation with Unmeasured Confounding,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709161
+181,HRSTORY: Historical News Review Based Online Story Discovery,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709198
+182,Grid and Road Expressions Are Complementary for Trajectory Representation Learning,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709272
+183,BTFL: A Bayesian-based Test-Time Generalization Method for Internal and External Data Distributions in Federated learning,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709309
+184,RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709252
+185,Contextual Generative Auction with Permutation-level Externalities for Online Advertising,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709313
+186,Exploring Feature-based Knowledge Distillation for Recommender System: A Frequency Perspective,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709248
+187,HyperZero: A Customized End-to-End Auto-Tuning System for Recommendation with Hourly Feedback,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709409
+188,Powerformer: A Section-adaptive Transformer for Power Flow Adjustment,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709433
+189,An Adaptable Budget Planner for Enhancing Budget-Constrained Auto-Bidding in Online Advertising,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709414
+190,ForTune: Running Offline Scenarios to Estimate Impact on Business Metrics,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709431
+191,"Experimenting, Fast and Slow: Bayesian Optimization of Long-term Outcomes with Online Experiments",kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709419
+192,Multi-Task Combinatorial Bandits for Budget Allocation,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709434
+193,TEMPER: Capturing Consistent and Fluctuating TEMPoral User Behaviour for EtheReum Phishing Scam Detection,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709399
+194,Efficient Multi-Expert Tabular Language Model for Banking,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709400
+195,Learning Adaptive Reserve Price in Display Advertising,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709439
+196,Synthetic Survey Data Generation and Evaluation,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709421
+197,Large Vison-Language Foundation Model in Baidu AIGC Image Advertising,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709401
+198,YaART: Yet Another ART Rendering Technology,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709404
+199,TGDataset: Collecting and Exploring the Largest Telegram Channels Dataset,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709397
+200,LLMLight: Large Language Models as Traffic Signal Control Agents,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709379
+201,A Deep Subgrouping Framework for Precision Drug Repurposing via Emulating Clinical Trials on Real-world Patient Data,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709418
+202,ECGrecover: A Deep Learning Approach for Electrocardiogram Signal Completion,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709405
+203,MerRec:  A Large-scale Multipurpose Mercari Dataset for Consumer-to-Consumer Recommendation Systems,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709394
+204,Contrastive Learning for Inventory Add Prediction at Fliggy,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709384
+205,FuzzyLight: A Robust Two-Stage Fuzzy Approach for Traffic Signal Control Works in Real Cities,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709393
+206,Improving Synthetic Image Detection Towards Generalization: An Image Transformation Perspective,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709392
+207,RankElectra: Semi-supervised Pre-training of Learning-to-Rank Electra for Web-scale Search,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709395
+208,Automatic Radiotherapy Treatment Planning with Deep Functional Reinforcement Learning,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709430
+209,Scenario Shared Instance Modeling for Click-through Rate Prediction,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709390
+210,LinkSAGE: Optimizing Job Matching Using Graph Neural Networks,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709396
+211,Session-Level Dynamic Ad Load Optimization using Offline Robust Reinforcement Learning,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709437
+212,Roadside Multi-LiDAR Data Fusion for Enhanced Traffic Safety,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709410
+213,Using Instruction-Tuned LMs for Scalable Use Case-Based Shopping - Where Customers Meet Their Needs,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709411
+214,Understanding Team Collapse via Probabilistic Graphical Models,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709386
+215,Explainable LiDAR 3D Point Cloud Segmentation and Clustering for Detecting Airplane-Generated Wind Turbulence,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709436
+216,Towards Web-scale Recommendations with LLMs: From Quality-aware Ranking to Candidate Generation,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709413
+217,SSE: Multimodal Semantic Data Selection and Enrichment for Industrial-scale Data Assimilation,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709417
+218,AntAkso: Claims Management System for Health Insurance in Alipay,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709398
+219,CATER: A Cluster-Based Alternative-Term Recommendation Framework for Large-Scale Web Search at NAVER,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709426
+220,A Framework for Leveraging Partially-Labeled Data for Product Attribute-Value Identification,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709427
+221,Unifying Adversarial Multi-Deconfounded Learning Paradigm for Fake News Detection,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709406
+222,Struct-X: Enhancing the Reasoning Capabilities of Large Language Models in Structured Data Scenarios,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709381
+223,Multi-Branch Collaborative Learning Network for Video Quality Assessment in Industrial Video Search,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709408
+224,Generative Retrieval for Book Search,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709435
+225,Cross-Species Insights: Transforming Drug Efficacy from Rats to Humans Using Tissue-Specific Generative Models,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709389
+226,Breaker: Removing Shortcut Cues with User Clustering for Single-slot Recommendation System,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709387
+227,HoME: Hierarchy of Multi-Gate Experts for Multi-Task Learning at Kuaishou,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709416
+228,Producer-Side Experiments Based on Counterfactual Interleaving Designs for Online Recommender Systems,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709428
+229,SoAy: A Solution-based LLM API-using Methodology for Academic Information Seeking,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709412
+230,Beyond Item Dissimilarities: Diversifying by Intent in Recommender Systems,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709429
+231,DynST: Dynamic Sparse Training for Resource-Constrained Spatio-Temporal Forecasting,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709391
+232,LDMapNet-U: An End-to-End System for City-Scale Lane-Level Map Updating,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709383
+233,Effective AOI-level Parcel Volume Prediction: When Lookahead Parcels Matter,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709441
+234,Scalable Area Difficulty Assessment with Knowledge-enhanced AI for Nationwide Logistics Systems,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709407
+235,Mutual Information-aware Knowledge Distillation for Short Video Recommendation,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709403
+236,Disclosing Actual Controller based on Equity Knowledge Graph Learning,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709432
+237,Multi-granularity Interest Retrieval and Refinement Network for Long-Term User Behavior Modeling in CTR Prediction,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709438
+238,AddrLLM: Address Rewriting via Large Language Model on Nationwide Logistics Data,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709425
+239,SWaT: Statistical Modeling of Video Watch Time through User Behavior Analysis,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709415
+240,SepsisCalc: Integrating Clinical Calculators into Early Sepsis Prediction via Dynamic Temporal Graph Construction,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709402
+241,BackdoorMBTI: A Backdoor Learning Multimodal Benchmark Tool Kit for Backdoor Defense Evaluation,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709385
+242,Instruction Semantics Enhanced Dual-Flow Graph Model for GPU Error Resilience Prediction,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709424
+243,NoteLLM-2: Multimodal Large Representation Models for Recommendation,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709440
+244,Large-scale Human Mobility Data Regeneration for Open Urban Research,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709380
+245,MentorPDM: Learning Data-Driven Curriculum for Multi-Modal Predictive Maintenance,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709388
+246,Multi-period Learning for Financial Time Series Forecasting,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709422
+247,MOPI-HFRS: A Multi-objective Personalized Health-aware Food Recommendation System with LLM-enhanced Interpretation,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709382
+248,Awaking the Slides: A Tuning-free and Knowledge-regulated AI Tutoring System via Language Model Coordination,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709423
+249,Prices Do Matter: Modeling Price Competitiveness for Online Hotel Industry,kdd,2025,https://dl.acm.org/doi/pdf/10.1145/3690624.3709420

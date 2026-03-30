@@ -1,0 +1,541 @@
+,title,conference,year,paper_url
+0,Digital Health,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729951
+1,"Please meet AI, Our Dear New Colleague. In other Words: Can Scientists and Machines Truly Cooperate",sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730057
+2,BM25 and all that - a look back,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729905
+3,DiSCo: LLM Knowledge Distillation for Efficient Sparse Retrieval in Conversational Search,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729966
+4,Clarifying Ambiguities: on the Role of Ambiguity Types in Prompting Methods for Clarification Generation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729922
+5,Beyond Whole Dialogue Modeling: Contextual Disentanglement for Conversational Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729903
+6,MSCRS: Multi-modal Semantic Graph Prompt Learning Framework for Conversational Recommender Systems,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730040
+7,Action First: Leveraging Preference-Aware Actions for More Effective Decision-Making in Interactive Recommender Systems,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729885
+8,Bridging the Gap: From Ad-hoc to Proactive Search in Conversations,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729915
+9,Search-Based Interaction For Conversation Recommendation via Generative Reward Model Based Simulated User,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730080
+10,OmniNER2025: Diverse and Comprehensive Fine-Grained NER Dataset and Benchmark for Chinese,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730048
+11,LLM-Assisted Relevance Assessments: When Should We Ask LLMs for Help,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729916
+12,Advancing Ship Re-Identification in the Wild: The ShipReID-2400 Benchmark Dataset and D2InterNet Baseline Method,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729892
+13,μDS: Multi-Objective Data Snippet Extraction for Dataset Search,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730120
+14,IVCR-200K: A Large-Scale Multi-turn Dialogue Benchmark for Interactive Video Corpus Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730015
+15,Rethinking Continual Knowledge Graph Embedding: Benchmarks and Analysis,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730073
+16,Towards Better Evaluating Multi-Query Sessions: A Measure Based on the Theory of Planned Behavior,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730096
+17,The Viability of Crowdsourcing for RAG Evaluation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730093
+18,A New HOPE: Domain-agnostic Automatic Evaluation of Text Chunking,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729882
+19,The Great Nugget Recall: Automating Fact Extraction and RAG Evaluation with Large Language Models,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730090
+20,Preference-Strength-Aware Self-Improving Alignment with Generative Preference Models,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730063
+21,LLM-Empowered Creator Simulation for Long-Term Evaluation of Recommender Systems Under Information Asymmetry,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730026
+22,FashionDPO: Fine-tune Fashion Outfit Generation Model using Direct Preference Optimization,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729976
+23,Open-World Fine-Grained Fashion Retrieval with LLM-based Commonsense Knowledge Infusion,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730050
+24,Adaptive Structure Learning with Partial Parameter Sharing for Post-Click Conversion Rate Prediction,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729887
+25,Generative Auto-Bidding with Value-Guided Explorations,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729987
+26,AdSight: Scalable and Accurate Quantification of User Attention in Multi-Slot Sponsored Search,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729891
+27,ULP: Unlabeled Location Prediction from Text,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730104
+28,"Towards Accurate Social User Geolocation: Mean Shift, Incremental Learning and Graph Convolutional Networks",sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730095
+29,Are Generative AI Agents Effective Personalized Financial Advisors,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729897
+30,Brain Image Reconstruction with Retrieval-Augmented Diffusion,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729909
+31,LIGHT: Enhancing Learning Path Recommendation via Knowledge Topology-Aware Sequence Optimization,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730022
+32,Interpretable Knowledge Tracing with Difficulty-Aware Attention and Selective State Space Model,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730012
+33,A Knowledge Extraction Framework on Cyber Threat Reports with Enhanced Security Profiles,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729880
+34,Enhancing the Patent Matching Capability of Large Language Models via the Memory Graph,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729970
+35,MIDI-Zero: A MIDI-driven Self-Supervised Learning Approach for Music Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730034
+36,How Cohesive Are Community Search Results on Online Social Networks?: An Experimental Evaluation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729997
+37,Mitigating Source Bias with LLM Alignment,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730038
+38,RankingSHAP - Faithful Listwise Feature Attribution Explanations for Ranking Models,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729971
+39,BotBR: Social Bot Detection with Balanced Feature Fusion and Reliability-Enhanced Graph Learning,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729908
+40,PATFinger: Prompt-Adapted Transferable Fingerprinting against Unauthorized Multimodal Dataset Usage,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730054
+41,Document Screenshot Retrievers are Vulnerable to Pixel Poisoning Attacks,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730056
+42,Joint Item Embedding Dual-view Exploration and Adaptive Local-Global Fusion for Federated Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730016
+43,LLM-Generated Fake News Induces Truth Decay in News Ecosystem: A Case Study on Neural News Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730027
+44,The Magnitude of Truth: On Using Magnitude Estimation for Truthfulness Assessment,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730091
+45,Efficiency and Effectiveness of LLM-Based Summarization of Evidence in Crowdsourced Fact-Checking,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729960
+46,Collaboration and Controversy Among Experts:  Rumor Early Detection by Tuning a Comment Generator,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729928
+47,Continual Origin Tracing of LLM-Generated Text,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729935
+48,Bridging Interests and Truth: Towards Mitigating Fake News with Personalized and Truthful Recommendations,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729912
+49,The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730092
+50,"Query Smarter, Trust Better? Exploring Search Behaviours for Verifying News Accuracy",sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730067
+51,Measuring Text-Image Retrieval Fairness with Synthetic Data,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730030
+52,Understanding Accuracy-Fairness Trade-offs in Re-ranking through Elasticity in Economics,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730106
+53,Fairness-Aware Classification over Incomplete Data,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729975
+54,Is Having Rationales Enough? Rethinking Knowledge Enhancement for Multimodal Hateful Meme Detection,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730014
+55,Can LLMs Enhance Fairness in Recommendation Systems? A Data Augmentation Approach,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729917
+56,Diffusion-based Multi-modal Synergy Interest Network for Click-through Rate Prediction,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729949
+57,A Pattern-Driven Information Diffusion Prediction Model Based on Multisource Resonance and Cognitive Adaptation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729883
+58,Information Retrieval in the Age of Generative AI: The RGB Model,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730008
+59,Towards Brain Passage Retrieval: An Investigation of EEG Query Representations,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730097
+60,Designing Search Engine Result Pages for Immersive Virtual Reality: Insights from Eye-Tracking and User Perception Data,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729947
+61,How Users Interact with Generative Information Retrieval Systems: A Study of User Behavior and Search Experience,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729998
+62,Simulating Before Planning: Constructing Intrinsic User World Model for User-Tailored Dialogue Policy Planning,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730084
+63,PR-Attack: Coordinated Prompt-RAG Attacks on Retrieval-Augmented Generation in Large Language Models via Bilevel Optimization,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730058
+64,Reverse-Engineering the Retrieval Process in GenIR Models,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730076
+65,CG-RAG: Research Question Answering by Citation Graph Retrieval-Augmented LLMs,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729920
+66,Heterogeneous Graph Embedding Made More Practical,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729993
+67,Leveraging Large Language Models for Effective Label-free Node Classification in Text-Attributed Graphs,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730021
+68,Enhancing Homophily in Heterogeneous Graph Contrastive Learning via Connection Strength and Multi-view Self-Expression,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729968
+69,InfoNCE is a Free Lunch for Semantically guided Graph Contrastive Learning,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730007
+70,Generative Recommender with End-to-End Learnable Item Tokenization,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729989
+71,Dynamic Time-aware Continual User Representation Learning,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729959
+72,MINTT: Memory Inductive Transfer for Temporal Graph Neural Networks,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730035
+73,A Generalised and Adaptable Reinforcement Learning Stopping Method,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729879
+74,SAFT: Structure-aware Transformers for Textual Interaction Classification,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730079
+75,HCDS: Hierarchical Clustering for Cold-Start Few-Shot Data Selection,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729992
+76,Beyond General Alignment: Fine-Grained Entity-Centric Image-Text Matching with Multimodal Attentive Experts,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729902
+77,FiRE: Enhancing MLLMs with Fine-Grained Context Learning for Complex Image Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729979
+78,Revolutionizing Text-to-Image Retrieval as Autoregressive Token-to-Voken Generation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730077
+79,Diffusion Augmented Retrieval: A Training-Free Approach to Interactive Text-to-Image Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729950
+80,Rethinking Pseudo Word Learning in Zero-Shot Composed Image Retrieval: From an Object-Aware Perspective,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730074
+81,Class Activation Values: Lucid and Faithful Visual Interpretations for CLIP-based Text-Image Retrievals,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729923
+82,Two-Stage Adversarial Training for Deep Hashing via Representation Distillation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730103
+83,Unified Category and Style Generalization for Instance-Level Sketch Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730108
+84,Queries Are Not Alone: Clustering Text Embeddings for Video Search,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730066
+85,Question-Answering Dense Video Events,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729945
+86,AV-NAS: Audio-Visual Multi-Level Semantic Neural Architecture Search for Video Hashing,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729899
+87,Understanding the Effect of Opinion Polarization in Short Video Browsing,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730107
+88,Gaming for Boundary: Elastic Localization for Frame-Supervised Video Moment Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729984
+89,ARC: Approximate Relevant Clip Query in Large-Scale Video Repositories,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729896
+90,Unconstrained Monotonic Calibration of Predictions in Deep Ranking Systems,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730105
+91,Techie: Tackling Video Prefetching at Edge Networks as POMDP Via an Intrinsically Motivated RL Agent,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730089
+92,DePro: Domain Ensemble using Decoupled Prompts for Universal Cross-Domain Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729946
+93,Meta-Guided Adaptive Weight Learner for Noisy Correspondence,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730032
+94,Generating Difficulty-aware Negative Samples via Conditional Diffusion for Multi-modal Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729986
+95,Boosting Discriminability for Robust Multimodal Entity Linking with Visual Modality Missing,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729906
+96,Seeing Beyond Hallucinations: LLM-based Compositional Information Extraction for Multimodal Reasoning,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730081
+97,Continual Text-to-Video Retrieval with Frame Fusion and Task-Aware Routing,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729936
+98,CLIP-AdaM: Adapting Multi-view CLIP for Open-set 3D Object Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729925
+99,Multi-level Encoding with Hierarchical Alignment for Sketch-Based 3D Shape Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730043
+100,Reconciling Efficiency and Effectiveness of Exercise Retreival: An Uncertainty Reduction Hashing Approach for Computerized Adaptive Testing,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730072
+101,Ask and Retrieve Knowledge: Towards Proactive Asking with Imperfect Information in Medical Multi-turn Dialogues,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729898
+102,General Neural Embedding for Sequence Distance Approximation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729985
+103,ProtChatGPT: Towards Understanding Proteins with Hybrid Representation and Large Language Models,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730064
+104,Combining Evidence and Reasoning for Biomedical Fact-Checking,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729931
+105,LLM-based Search Assistant with Holistically Guided MCTS for Intricate Information Seeking,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730025
+106,OBELLA: Open the Book for Evaluating Long-Form Large Language Model Answers in Open-Domain Question Answering,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730047
+107,Question-Answer Extraction from Scientific Articles Using Knowledge Graphs and Large Language Models,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730068
+108,GlFoMR: A Glance-then-Focus Multimodal Reasoning Framework for Diagram Question Answering,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729990
+109,An Empirical Study of Evaluating Long-form Question Answering,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729895
+110,BALI: Enhancing Biomedical Language Representations through Knowledge Graph and Language Model Alignment,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729901
+111,Flow-guided Direct Preference Optimization for Knowledge Graph Reasoning with Trees,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729980
+112,Segmentation Similarity Enhanced Semantic Related Entity Fusion for Multi-modal Knowledge Graph Completion,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730082
+113,Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730037
+114,From Knowledge Forgetting to Accumulation: Evolutionary Relation Path Passing for Lifelong Knowledge Graph Embedding,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729982
+115,AdaRPT: An Adaptive Rule Pattern Transfer Model for Fully Inductive Knowledge Graph Reasoning,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729889
+116,HyperG:  Hypergraph-Enhanced LLMs for Structured Knowledge,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730002
+117,Comprehending Knowledge Graphs with Large Language Models for Recommender Systems,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729932
+118,Parametric Retrieval Augmented Generation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729957
+119,ReARTeR: Retrieval-Augmented Reasoning with Trustworthy Process Rewarding,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730102
+120,Unveiling Knowledge Utilization Mechanisms in LLM-based Retrieval-Augmented Generation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730112
+121,Robust Fine-tuning for Retrieval Augmented Generation against Retrieval Defects,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730078
+122,Predicting RAG Performance for Text Completion,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730062
+123,Retrieval Augmented Generation with Collaborative Filtering for Personalized Text Generation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730075
+124,Knowing You Don't Know: Learning When to Continue Search in Multi-round RAG through Self-Practicing,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730018
+125,CIRAG: Retrieval-Augmented Language Model with Collective Intelligence,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729921
+126,Lightweight and Direct Document Relevance Optimization for Generative Information Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730023
+127,Exploring Training and Inference Scaling Laws in Generative Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729973
+128,Incorporating Communication Style and Interaction of Speakers for Sarcasm Explanation in Dialogue,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730006
+129,LUSIFER: Language Universal Space Integration for Enhanced Representation in Multilingual Text Embedding Models,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730029
+130,Generative Meta-Learning for Zero-Shot Relation Triplet Extraction,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729988
+131,Reasoning and Retrieval for Complex Semi-structured Tables via Reinforced Relational Data Transformation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730071
+132,Optimizing Tail-Head Trade-off for Extreme Multi-Label Text Classification (XMTC) with RAG-Labels and a Dynamic Two-Stage Retrieval and Fusion Pipeline,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730052
+133,CSE-SFP: Enabling Unsupervised Sentence Representation Learning via a Single Forward Pass,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729938
+134,InstructRAG: Leveraging Retrieval-Augmented Generation on Instruction Graphs for LLM-Based Task Planning,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730009
+135,A Unified Retrieval Framework with Document Ranking and EDU Filtering for Multi-document Summarization,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729884
+136,Retrieval Augmented Generation for Dynamic Graph Modeling,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729958
+137,Empowering Large Language Model Agent through Step-Level Self-Critique and Self-Training,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729965
+138,"Pre-train, Align, and Disentangle: Empowering Sequential Recommendation with Large Language Models",sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730059
+139,Data Augmentation as Free Lunch: Exploring the Test-Time Augmentation for Sequential Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729943
+140,Unleashing the Potential of Diffusion Models Towards Diversified Sequential Recommendations,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730109
+141,Denoising Multi-Interest-Aware Logical Reasoning for Long-Sequence Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729944
+142,X-Cross: Dynamic Integration of Language Models for Cross-Domain Sequential Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730117
+143,Improving Sequential Recommenders through Counterfactual Augmentation of System Exposure,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730005
+144,Triplet Contrastive Learning with Learnable Sequence Augmentation for Sequential Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730101
+145,STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730087
+146,Towards Interest Drift-driven User Representation Learning in Sequential Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730099
+147,Intent-aware Diffusion with Contrastive Learning for Sequential Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730010
+148,CSRec: Rethinking Sequential Recommendation from A Causal Perspective,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729940
+149,Multi-Grained Patch Training for Efficient LLM-based Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730042
+150,Bridge the Domains: Large Language Models Enhanced Cross-domain Sequential Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729911
+151,Multi-Modal Multi-Behavior Sequential Recommendation with Conditional Diffusion-Based Feature Denoising,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730044
+152,Mitigating Distribution Shifts in Sequential Recommendation: An Invariance Perspective,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730036
+153,AlphaFuse: Learn ID Embeddings for Sequential Recommendation in Null Space of Language Embeddings,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729894
+154,DIFF: Dual Side-Information Filtering and Fusion for Sequential Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729948
+155,Diversity-aware Dual-promotion Poisoning Attack on Sequential Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729955
+156,Adaptive User Dynamic Interest Guidance for Generative Sequential Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729888
+157,Hierarchical Intent-guided Optimization with Pluggable LLM-Driven Semantics for Session-based Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729994
+158,Linear Item-Item Models with Neural Knowledge for Session-based Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730024
+159,"Exploring the Escalation of Source Bias in User, Data, and Recommender System Feedback Loop",sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729972
+160,FedCIA: Federated Collaborative Information Aggregation for Privacy-Preserving Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729977
+161,Review-driven Personalized Preference Reasoning with Large Language Models for Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730055
+162,Enhancing New-item Fairness in Dynamic Recommender Systems,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729969
+163,Fair Recommendation with Biased-Limited Sensitive Attribute,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729974
+164,Social Relation-Level Privacy Risks and Preservation in Social Recommender Systems,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730086
+165,NR4DER: Neural Re-ranking for Diversified Exercise Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730046
+166,FIM: Frequency-Aware Multi-View Interest Modeling for Local-Life Service Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729978
+167,Hierarchical Tree Search-based User Lifelong Behavior Modeling on Large Language Model,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729995
+168,CoMaPOI: A Collaborative Multi-Agent Framework for Next POI Prediction Bridging the Gap Between Trajectory and Language,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729930
+169,Disentangled Graph Debiasing for Next POI Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729952
+170,CD-CDR: Conditional Diffusion-based Item Generation for Cross-Domain Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729918
+171,Enhancing Cross-Domain Recommendation with Plug-In Contrastive Representations from Large Language Models,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729967
+172,You Are What You Bought: Generating Customer Personas for E-commerce Applications,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730118
+173,Disentangling and Generating Modalities for Recommendation in Missing Modality Scenarios,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729953
+174,COHESION: Composite Graph Convolutional Network with Dual-Stage Fusion for Multimodal Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729927
+175,CDC: Causal Domain Clustering for Multi-Domain Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729919
+176,MELON: Learning Multi-Aspect Modality Preferences for Accurate Multimedia Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730031
+177,Adaptive Graph Integration for Cross-Domain Recommendation via Heterogeneous Graph Coordinators,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729886
+178,Intent Representation Learning with Large Language Model for Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730011
+179,Short Video Segment-level User Dynamic Interests Modeling in Personalized Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730083
+180,Efficiency Unleashed: Inference Acceleration for LLM-based Recommender Systems with Speculative Decoding,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729961
+181,ID-Free Not Risk-Free: LLM-Powered Agents Unveil Risks in ID-Free Recommender Systems,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730003
+182,MSL: Not All Tokens Are What You Need for Tuning LLM as a Recommender,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730041
+183,Order-agnostic Identifier for Large Language Model-based Generative Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730053
+184,Process-Supervised LLM Recommenders via Flow-guided Tuning,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729981
+185,Large Language Models Enhanced Hyperbolic Space Recommender Systems,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730019
+186,Modeling Social Behavior in Collaborative Filtering,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730039
+187,Graph Spectral Filtering with Chebyshev Interpolation for Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729991
+188,Collaborative Diffusion Models for Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729929
+189,Unveiling Contrastive Learning's Capability of Neighborhood Aggregation for Collaborative Filtering,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730111
+190,Social Context-Aware Community-Level Propagation Prediction,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730085
+191,Towards Distribution Matching between Collaborative and Language Spaces for Generative Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730098
+192,Hypercomplex Knowledge Graph-Aware Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730001
+193,Balancing Self-Presentation and Self-Hiding for Exposure-Aware Recommendation Based on Graph Contrastive Learning,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729900
+194,Invariance Matters: Empowering Social Recommendation via Graph Invariant Learning,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730013
+195,CORONA: A Coarse-to-Fine Framework for Graph-based Recommendation with Large Language Models,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729937
+196,Bridging Short Videos and Streamers with Multi-Graph Contrastive Learning for Live Streaming Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729914
+197,Rating-Aware Homogeneous Review Graphs and User Likes/Dislikes Differentiation for Effective Recommendations,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730069
+198,VoRec: Enhancing Recommendation with Voronoi Diagram in Hyperbolic Space,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730114
+199,Embracing Plasticity: Balancing Stability and Plasticity in Continual Recommender Systems,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729964
+200,Efficient Recommendation with Millions of Items by Dynamic Pruning of Sub-Item Embeddings,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729963
+201,Pre-training for Recommendation Unlearning,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730060
+202,CSMF: Cascaded Selective Mask Fine-Tuning for Multi-Objective Embedding-Based Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729939
+203,Multi-scenario Instance Embedding Learning for Deep Recommender Systems,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730045
+204,Why is Normalization Necessary for Linear Recommenders,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730116
+205,Addressing Missing Data Issue for Diffusion-based Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729890
+206,Hyperbolic Multi-Criteria Rating Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730000
+207,MGIPF: Multi-Granularity Interest Prediction Framework for Personalized Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730033
+208,A Learnable Fully Interacted Two-Tower Model for Pre-Ranking System,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729881
+209,DARLR: Dual-Agent Offline Reinforcement Learning for Recommender Systems with Dynamic Reward,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729942
+210,DAR: Dimension-Adaptive Recommendation with Multi-Granular Noise Control,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729941
+211,DLF: Enhancing Explicit-Implicit Interaction via Dynamic Low-Order-Aware Fusion for CTR Prediction,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729956
+212,Killing Two Birds with One Stone: Unifying Retrieval and Ranking with a Single Generative Recommendation Model,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730017
+213,Agentic Feedback Loop Modeling Improves Recommendation and User Simulation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729893
+214,Learning to Rank with Variable Result Presentation Lengths,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730020
+215,QDER: Query-Specific Document and Entity Representations for Multi-Vector Document Re-Ranking,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730065
+216,Distributionally Robust Optimization for Unbiased Learning to Rank,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729954
+217,Zero-Shot Reranking with Large Language Models and Precomputed Ranking Features: Opportunities and Limitations,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730119
+218,Breaking the Lens of the Telescope: Online Relevance Estimation over Large Retrieval Sets,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729910
+219,Comprehensive List Generation for Multi-Generator Reranking,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729933
+220,Bridging Personalization and Control in Scientific Personalized Search,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729913
+221,Reason-to-Rank: Distilling Direct and Comparative Reasoning from Large Language Models for Document Reranking,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730070
+222,CoDIME: A Counterfactual Approach for Dimension Importance Estimation through Click Logs,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729926
+223,Stitching Inner Product and Euclidean Metrics for Topology-aware Maximum Inner Product Search,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730088
+224,On the Scaling of Robustness and Effectiveness in Dense Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730049
+225,Optimizing Compound Retrieval Systems,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730051
+226,Hypencoder: Hypernetworks for Information Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729983
+227,Precise Zero-Shot Pointwise Ranking with LLMs through Post-Aggregated Global Context Information,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730061
+228,Classifying Term Variants in Query Formulation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729924
+229,Towards Lossless Token Pruning in Late-Interaction Retrieval Models,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730100
+230,Locality-Sensitive Indexing for Graph-Based Approximate Nearest Neighbor Search,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730028
+231,Constrained Auto-Regressive Decoding Constrains Generative Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729934
+232,Boosting Retrieval-Augmented Generation with Generation-Augmented Retrieval: A Co-Training Approach,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729907
+233,Unsupervised Corpus Poisoning Attacks in Continuous Space for Dense Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730110
+234,Hybrid Advertising in the Sponsored Search,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729999
+235,UPPR+: Scaling Uncertain Personalised PageRank Computation on Billion-Sized Graphs with Mutually Exclusive Edges,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730113
+236,WebANNS: Fast and Efficient Approximate Nearest Neighbor Search in Web Browsers,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730115
+237,TITE: Token-Independent Text Encoder for Information Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730094
+238,WARP: An Efficient Engine for Multi-Vector Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729904
+239,Highly Efficient Disk-based Nearest Neighbor Search on Extended Neighborhood Graph,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729996
+240,IGP: Efficient Multi-Vector Retrieval via Proximity Graph Index,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730004
+241,Efficient Re-ranking with Cross-encoders via Early Exit,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3729962
+242,Limitations of Automatic Relevance Assessments with Large Language Models for Fair and Reliable Retrieval Evaluation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730221
+243,HTGformer: Heterogeneous Temporal Graph Transformer,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730209
+244,Unbiased Collaborative Filtering with Fair Sampling,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730260
+245,Improving LLM-powered Recommendations with Personalized Information,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730211
+246,AgentCF++: Memory-enhanced LLM-based Agents for Popularity-aware Cross-domain Recommendations,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730161
+247,Exploring ℓ0 Sparsification for Inference-free Sparse Retrievers,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730192
+248,"Private Preferences, Public Rankings: A Privacy-Preserving Framework for Marketplace Recommendations",sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730237
+249,Do LLMs Memorize Recommendation Datasets? A Preliminary Study on MovieLens-1M,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730178
+250,NAM: A Normalization Attention Model for Personalized Product Search In Fliggy,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730235
+251,Interest Changes: Considering User Interest Life Cycle in Recommendation System,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730215
+252,Counterfactual Model Selection in Contextual Bandits,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730176
+253,Characterising Topic Familiarity and Query Specificity Using Eye-Tracking Data,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730174
+254,Improving Link Sign Prediction in Signed Bipartite Graphs via Balanced Line Graphs,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730210
+255,Multi-Interest Matching for Personalized News Recommendation with Large Language Models,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730233
+256,Score-Fitted Indexes and Constant Length Indexes for Information Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730248
+257,Evaluating Multi-Dimensional Cumulated Utility in Information Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730191
+258,Generating Effective Health-Related Queries for Promoting Reliable Search Results,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730202
+259,RE-AdaptIR: Improving Information Retrieval through Reverse Engineered Adaptation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730240
+260,Bias in Language Models: Interplay of Architecture and Data,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730172
+261,Dynamic Margin-based Contrastive Learning for Robust Negative Sampling in Information Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730182
+262,UTCS: Effective Unsupervised Temporal Community Search with Pre-training of Temporal Dynamics and Subgraph Knowledge,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730263
+263,EIoU-EMC: A Novel Loss for Domain-specific Nested Entity Recognition,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730187
+264,Graph-Based Multimodal Contrastive Learning for Chart Question Answering,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730204
+265,ELEC: Efficient Large Language Model-Empowered Click-Through Rate Prediction,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730188
+266,Exploring Human-Like Thinking in Search Simulations with Large Language Models,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730193
+267,Rational Retrieval Acts: Leveraging Pragmatic Reasoning to Improve Sparse Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730239
+268,Scaling Sparse and Dense Retrieval in Decoder-Only LLMs,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730225
+269,Dual Debiasing in LLM-based Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730181
+270,PUB: An LLM-Enhanced Personality-Driven User Behaviour Simulator for Recommender System Evaluation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730238
+271,Learning Resistant Binary Descriptors Against Noise for Efficient Image Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730220
+272,Graph-Augmented Retrieval with Memory-Driven Reasoning and Constraint-Aware Filtering for MultiHop QA,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730203
+273,Template-Based Financial Report Generation in Agentic and Decomposed Information Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730253
+274,A Comparative Study of Large Language Models and Traditional Privacy Measures to Evaluate Query Obfuscation Approaches,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730158
+275,From Monolith to Mosaic: Uncovering Behavioral Differences for Choice Models in Recommender Systems Simulations,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730199
+276,GINGER: Grounded Information Nugget-Based Generation of Responses,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730166
+277,Interactive Code Information Integrated Programming Knowledge Tracing,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730214
+278,Retrieving Tables via Inter- and Intra-Content Contrastive Representation Learning,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730245
+279,Investigating Task Arithmetic for Zero-Shot Information Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730216
+280,Echoes in the Feed: Evolution-aware Prompt-augmented Micro-video Popularity Prediction,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730184
+281,Efficient Conversational Search via Topical Locality in Dense Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730186
+282,"SMMR: Sampling-Based MMR Reranking for Faster, More Diverse, and Balanced Recommendations and Retrieval",sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730250
+283,Assessing Support for the TREC 2024 RAG Track: A Large-Scale Comparative Study of LLM and Human Evaluations,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730165
+284,Large Models are Good Annotators for Zero-Shot Learning,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730219
+285,Squeeze and Excitation: A Weighted Graph Contrastive Learning for Collaborative Filtering,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730251
+286,Bias-Aware Curriculum Sampling For Fair Ranking,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730171
+287,Automatic Document Editing for Improved Ranking,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730168
+288,A Human-AI Comparative Analysis of Prompt Sensitivity in LLM-Based Relevance Judgment,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730159
+289,An Alternative to FLOPS Regularization to Effectively Productionize SPLADE-Doc,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730163
+290,VAP3: Variation-Aware Prompt Performance Prediction,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730264
+291,Translative Neural Team Recommendation: From Multilabel Classification to Sequence Prediction,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730259
+292,Fact-Level Calibration and Correction for Long-Form Generations,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730195
+293,System Comparison Using Automated Generation of Relevance Judgements in Multiple Languages,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730252
+294,Dual-perspective Data Augmentation and Curriculum Learning Framework for Low-resource Complex Named Entity Recognition,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730180
+295,FROG: Effective Friend Recommendation in Online Games via Modality-aware User Preferences,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730198
+296,Text Obsoleteness Detection using Large Language Models,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730254
+297,Response Quality Assessment for Retrieval-Augmented Generation via Conditional Conformal Factuality,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730244
+298,Conversational Argument Search Under Selective Exposure: Strategies for Balanced Perspective Access,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730175
+299,LREA: Low-Rank Efficient Attention on Modeling Long-Term User Behaviors for CTR Prediction,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730228
+300,ReCDAP: Relation-based Conditional Diffusion with Attention Pooling for Few-Shot Knowledge Graph Completion,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730241
+301,Multilingual Evaluation of Main Content Extractors for Web Pages,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730234
+302,Large Language Model Relevance Assessors Agree With One Another More Than With Human Assessors,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730218
+303,Axiomatic Re-Ranking for Argument Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730169
+304,GEAR: Generalized Alternating Regressor for Multi-Behavior Sequential Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730200
+305,Measuring Hypothesis Testing Errors in the Evaluation of Retrieval Systems,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730229
+306,Hierarchical User Long-term Behavior Modeling for Click-Through Rate Prediction,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730207
+307,Training-free Periodic Interest Augmentation in Incremental Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730258
+308,In-Context Learning as an Effective Estimator of Functional Correctness of LLM-Generated Code,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730212
+309,More Than Just A Conversation: A Multi-agent Reasoning Graph Knowledge Distillation for Conversational Stance Detection,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730232
+310,Lost in Transliteration: Bridging the Script Gap in Neural IR,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730226
+311,SEALR: Sequential Emotion-Aware LLM-Based Personalized Recommendation System,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730249
+312,Meta-Learning for Incomplete Multimodal Sentiment Analysis,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730231
+313,Document Similarity Enhanced IPS Estimation for Unbiased Learning to Rank,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730179
+314,Balancing Precision and Generalization: Dynamic Instruction Generation for Model Adaptive Zero-Shot Reasoning in LLMs,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730170
+315,Generate-Distill: Training Cross-Language IR Models with Synthetically-Generated Data,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730201
+316,Evaluating Contrastive Feedback for Effective User Simulations,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730189
+317,Effective Inference-Free Retrieval for Learned Sparse Representations,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730185
+318,Evaluating LLMs' (In)ability to Follow Prompts in QA Tasks,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730190
+319,Are Information Retrieval Approaches Good at Harmonising Longitudinal Surveys in Social Science,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730164
+320,Retrieving the Right Law: Enhancing Legal Search with Style Translation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730246
+321,Reinforcement Learning for Effective Few-Shot Ranking,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730243
+322,Exploring the Role of Diversity in Example Selection for In-Context Learning,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730194
+323,Refining Fidelity Metrics for Explainable Recommendations,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730242
+324,Towards Best Practices of Axiomatic Activation Patching in Information Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730256
+325,In a Few Words: Comparing Weak Supervision and LLMs for Short Query Intent Classification,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730213
+326,Aligning Web Query Generation with Ranking Objectives via Direct Preference Optimization,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730162
+327,Low-Cost Document Retrieval with Dense Pseudo-Query Encoding,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730227
+328,Measuring the Fairness Gap Between Retrieval and Generation in RAG Systems using a Cognitive Complexity Framework,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730230
+329,Fast and Effective Early Termination for Simple Ranking Functions,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730197
+330,Dynamic Superblock Pruning for Fast Learned Sparse Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730183
+331,A Large-Scale Study of Reranker Relevance Feedback at Inference,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730160
+332,KGMEL: Knowledge Graph-Enhanced Multimodal Entity Linking,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730217
+333,HeterRec: Heterogeneous Information Transformer for Scalable Sequential Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730206
+334,Understanding Large Language Model Performance in Software Engineering: A Large-scale Question Answering Benchmark,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730262
+335,Towards Principled Learning for Re-ranking in Recommender Systems,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730257
+336,LLM-based Query Expansion Fails for Unfamiliar and Ambiguous Queries,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730222
+337,Bridging Time Gaps: Temporal Logic Relations for Enhancing Temporal Reasoning in Large Language Models,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730173
+338,The Effects of Demographic Instructions on LLM Personas,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730255
+339,Augmenting Vision-Language Retrieval: The Role of Multimodal LLMs as Synthetic Data Generators,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730167
+340,LLM-Driven Usefulness Labeling for IR Evaluation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730223
+341,Permutation-Invariant Transformers for Attribute Embeddings in Information Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730236
+342,HAETAE: In-domain Table Pretraining with Header Anchoring,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730205
+343,RSGEA: Relationship Structure Line Graph for Semi-supervised Entity Alignment based on Edge Weight Adjustment,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730247
+344,HiLTV: Hierarchical Multi-Distribution Modeling for Lifetime Value Prediction in Online Games,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730208
+345,LLM as User Simulator: Towards Training News Recommender without Real User Interactions,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730224
+346,Understanding Audio-Text Retrieval Through Singular Value Decomposition,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730261
+347,Deep Multiple Quantization Network on Long Behavior Sequence for Click-Through Rate Prediction,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730177
+348,Leveraging Artificial Intelligence-Powered Virtual Assistant for Information Retrieval in Indigenous Agriculture: Insights from Nigeria,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730265
+349,Dense Retrieval for Low Resource languages - the Case of Amharic Language,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730274
+350,Advancing Chichewa IR,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730272
+351,Towards Enhanced Agricultural Information Access in Kiswahili: Integrating Knowledge Graphs and Retrieval-Augmented Generation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730271
+352,Some Things Never Change: Overcoming Persistent Challenges in Children IR,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730270
+353,"Small Data, Big Impact: Navigating Resource Limitations in Point-of-Interest Recommendation for Individuals with Autism",sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730269
+354,IR for AAC Users: A Hyperdimensional Computing (Vector Symbolic Architectures) Approach,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730273
+355,Efficient Approximate Nearest Neighbor Search on a Raspberry Pi,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730268
+356,When Less is Enough: Optimizations for Low-Cost Recommendation Systems,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730267
+357,Fair Access to Food Data in Africa: An Approach Based on Retrieval-Augmented Generation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730266
+358,2D Matryoshka Training for Information Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730330
+359,A Reproducibility Study of Graph-Based Legal Case Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730282
+360,A Reproducibility Study of LLM Setwise Reranker with Heapsort,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730338
+361,A Worrying Reproducibility Study of Intent-Aware Recommendation Models,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730307
+362,Accelerating Listwise Reranking: Reproducing and Enhancing FIRST,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730287
+363,Assessing Effective Token Length of Multimodal Models for Text-to-Image Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730326
+364,Benchmark Granularity and Model Robustness for Image-Text Retrieval: A Reproducibility Study,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730290
+365,Benchmarking LLM-based Relevance Judgment Methods,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730305
+366,Beyond Reproducibility: Advancing Zero-shot LLM Reranking Efficiency with Setwise Insertion,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730323
+367,Does UMBRELA work on other LLMs,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730317
+368,Gosling Grows Up: Retrieval with Learned Dense and Sparse Representations Using Anserini,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730281
+369,Information Leakage of Sentence Embeddings via Generative Embedding Inversion Attacks,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730303
+370,Inside Out 2: Make Room for New Emotions & LLM: A Reproducibility Study of the Emotional Side of Search in the Classroom,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730315
+371,Interpreting Multilingual and Document-Length Sensitive Relevance Computations in Neural Retrieval Models through Axiomatic Causal Interventions,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730327
+372,Investigating the Robustness of Counterfactual Learning to Rank Models: A Reproducibility Study,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730310
+373,Pre-training vs. Fine-tuning: A Reproducibility Study on Dense Retrieval Knowledge Acquisition,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730332
+374,RARR Unraveled: Component-Level Insights into Hallucination Detection and Mitigation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730337
+375,Reassessing Large Language Model Boolean Query Generation for Systematic Reviews,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730329
+376,Reassessing the Effectiveness of Reinforcement Learning based Recommender Systems for Sequential Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730322
+377,Refined Medical Search via Dense Retrieval and User Interaction,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730292
+378,Replication and Exploration of Generative Retrieval over Dynamic Corpora,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730314
+379,"Reproducibility, Replicability, and Insights into Visual Document Retrieval with Late Interaction",sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730285
+380,Reproducing NevIR: Negation in Neural Information Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730294
+381,Revisiting Algorithmic Audits of TikTok: Poor Reproducibility and Short-term Validity of Findings,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730293
+382,"Unveiling DIME: Reproducibility, Generalizability, and Formal Analysis of Dimension Importance Estimation for Dense Retrieval",sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730318
+383,Unlearning for Federated Online Learning to Rank: A Reproducibility Study,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730336
+384,Variations in Relevance Judgments and the Shelf Life of Test Collections,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730308
+385,Tip of the Tongue Query Elicitation for Simulated Evaluation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730335
+386,A Flexible Resource for Top-Weighted Comparisons Between Sets and Rankings,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730306
+387,A Versatile Dataset of Mouse and Eye Movements on Search Engine Results Pages,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730325
+388,An EEG Dataset of Word-level Brain Responses for Semantic Text Relevance,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730289
+389,"Benchmarking Recommendation, Classification, and Tracing Based on Hugging Face Knowledge Graph",sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730277
+390,CoLoTa: A Dataset for Entity-based Commonsense Reasoning over Long-Tail Knowledge,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730291
+391,Conversational Gold: Evaluating Personalized Conversational Search System Using Gold Nuggets,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730316
+392,CoSRec: A Joint Conversational Search and Recommendation Dataset,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730319
+393,DataRec: A Python Library for Standardized and Reproducible Data Management in Recommender Systems,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730320
+394,Doctron: A Web-based Collaborative Annotation Tool for Ground Truth Creation in IR,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730286
+395,Dynamic-KGQA: A Scalable Framework for Generating Adaptive Question Answering Datasets,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730324
+396,ELOQ: Resources for Enhancing LLM Detection of Out-of-Scope Questions,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730333
+397,Extending MovieLens-32M to Provide New Evaluation Objectives,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730328
+398,FACTors: A New Dataset for Studying the Fact-checking Ecosystem,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730339
+399,FairDiverse: A Comprehensive Toolkit for Fairness- and Diversity-aware Information Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730280
+400,IDAT: A Multi-Modal Dataset and Toolkit for Building and Evaluating Interactive Task-Solving Agents,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730300
+401,ir_explain: A Python Library of Explainable IR Methods,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730343
+402,JuDGE: Benchmarking Judgment Document Generation for Chinese Legal System,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730295
+403,KIMERA: From Evaluation-as-a-Service to Evaluation-in-the-Cloud,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730298
+404,LEMSS: LLM-Based Platform for Multi-Agent Competitive Search Simulation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730312
+405,LexRAG: Benchmarking Retrieval-Augmented Generation in Multi-Turn Legal Consultation Conversation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730340
+406,MRAMG-Bench: A Comprehensive Benchmark for Advancing Multimodal Retrieval-Augmented Multimodal Generation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730288
+407,MultiConAD: A Unified Multilingual Conversational Dataset for Early Alzheimer's Detection,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730313
+408,nlcTables: A Dataset for Marrying Natural Language Conditions with Table Discovery,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730296
+409,PILs of Knowledge: A Synthetic Benchmark for Evaluating Question Answering Systems in Healthcare,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730283
+410,PSCon: Product Search Through Conversations,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730278
+411,Qilin: A Multimodal Information Retrieval Dataset with APP-level User Sessions,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730279
+412,RankLLM: A Python Package for Reranking with LLMs,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730331
+413,REANIMATOR: Reanimate Retrieval Test Collections with Extracted and Synthetic Resources,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730342
+414,RecGaze: The First Eye Tracking and User Interaction Dataset for Carousel Interfaces,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730301
+415,"Researchy Questions: A Dataset of Multi-Perspective, Decompositional Questions for Deep Research",sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730275
+416,Resource for Error Analysis in Text Simplification: New Taxonomy and Test Collection,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730304
+417,SAGraph: A Large-Scale Social Graph Dataset with Comprehensive Context for Influencer Selection in Marketing,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730334
+418,SynthTRIPs: A Knowledge-Grounded Framework for Benchmark Data Generation for Personalized Tourism Recommenders,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730321
+419,TAFSIL: Taxonomy Adaptable Fine-grained Entity Recognition through Distant Supervision for Indian Languages,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730341
+420,TIREx Tracker: The Information Retrieval Experiment Tracker,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730297
+421,U-Sticker: A Large-Scale Multi-Domain User Sticker Dataset for Retrieval and Personalization,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730311
+422,LUMA: A Benchmark Dataset for Learning from Uncertain and Multimodal Data,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730302
+423,WebClasSeg-25: A Dual-Classified Webpage Segmentation Dataset - Integrating Functional and Maturity-Based Analysis,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730309
+424,WebFAQ: A Multilingual Collection of Natural Q&A Datasets for Dense Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731934
+425,Wiki-TabNER: Integrating Named Entity Recognition into Wikipedia Tables,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730344
+426,WikiHint: A Human-Annotated Dataset for Hint Ranking and Generation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730284
+427,Wrong Answers Can Also Be Useful: PlausibleQA - A Large-Scale QA Dataset with Answer Plausibility Scores,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730299
+428,An Instruction-Response Perspective on Large Language Models in Information Retrieval Tasks,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730346
+429,From Query to Conscience: The Importance of Information Retrieval in Empowering Socially Responsible Consumerism,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730347
+430,"Rankers, Judges, and Assistants: Towards Understanding the Interplay of LLMs in Information Retrieval Evaluation",sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730348
+431,Information Retrieval for Artificial General Intelligence: A New Perspective of Information Retrieval Research,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730349
+432,Brain-Machine Interfaces & Information Retrieval Challenges and Opportunities,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730350
+433,Adaptive Orchestration of Modular Generative Information Access Systems,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730351
+434,From To-Do to Ta-Da: Transforming Task-Focused IR with Generative AI,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730352
+435,NExT-Search: Rebuilding User Feedback Ecosystem for Generative AI Search,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730353
+436,Toward Holistic Evaluation of Recommender Systems Powered by Generative Models,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730354
+437,"My System Is As Effective As Yours: Reproducibility, Sustainability, and More",sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730345
+438,RelEx: An XAI-Enhanced Relevance Feedback Model for User-Adaptive Explanations,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730132
+439,AiReview: An Open Platform for Accelerating Systematic Reviews with LLMs,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730133
+440,FairWork: A Generic Framework For Evaluating Fairness In LLM-Based Job Recommender System,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730145
+441,DeepReport: An AI-assisted Idea Generation System for Scientific Research,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730151
+442,Artifact Sharing for Information Retrieval Research,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730147
+443,OnSET: Ontology and Semantic Exploration Toolkit,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730148
+444,Fact Verification in Knowledge Graphs Using LLMs,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730142
+445,NLQxform-UI: An Interactive and Intuitive Scholarly Question Answering System,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730153
+446,ROKSANA: An Open-Source Toolkit for Robust Graph-Based Keyword Search,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730154
+447,Nugget-based Annotation Protocol and Tool For Evaluating Long-form Retrieval-Augmented Generation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730156
+448,MMMORRF: Multimodal Multilingual MOdularized Reciprocal Rank Fusion,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730157
+449,Advancing Scientific Knowledge Retrieval and Reuse with a Novel Digital Library for Machine-Readable Knowledge,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730134
+450,Conversational Bibliographic Search,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730144
+451,Navigating Speech Recording Collections with AI-Generated Illustrations,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730136
+452,Combating Biomedical Misinformation through Multi-modal Claim Detection and Evidence-based Verification,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730155
+453,Multimodal Search in Chemical Documents and Reactions,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730152
+454,Constructing and Evaluating Declarative RAG Pipelines in PyTerrier,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730150
+455,Targeted Multi-Modal Passage Search for Molecules and their Synthesis Pathways,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730149
+456,InstInfo: A Just-in-Time Literature Recommendation System for Presentations,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730146
+457,CoachGPT: A Scaffolding-based Academic Writing Assistant,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730143
+458,TINK: Text Information Navigation Kit,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730141
+459,"Tevatron 2.0: Unified Document Retrieval Toolkit across Scale, Language, and Modality",sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730135
+460,A Flexible User Study Platform for Generative Information Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730140
+461,ReviewHQ: An API-Based System for Reviewer Assignment and Quality Control in Research Conferences,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730139
+462,NodeRec+: A Lightweight Framework for Federated Recommender Systems,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730138
+463,ClusterChat: Multi-Feature Search for Corpus Exploration,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730137
+464,Unveiling Knowledge Boundary of Large Language Models for Trustworthy Information Access,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731684
+465,Information Retrieval in Finance: Industry and Academic Perspectives on Innovation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731685
+466,Conversational Search: From Fundamentals to Frontiers in the LLM Era,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731686
+467,Query Understanding in LLM-based Conversational Information Seeking,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731687
+468,Efficient In-Memory Inverted Indexes: Theory and Practice,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731688
+469,R2LLMs: Retrieval and Ranking with LLMs,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731689
+470,Long Context vs. RAG: Strategies for Processing Long Documents in LLMs,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731690
+471,Psychological Aspects in Retrieval and Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731691
+472,Dynamic and Parametric Retrieval-Augmented Generation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731692
+473,Neural Lexical Search with Learned Sparse Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731693
+474,Fairness in Information Retrieval from an Economic Perspective,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731694
+475,The Second Tutorial on Retrieval-Enhanced Machine Learning: Synthesis and Opportunities,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731695
+476,Navigating Large Language Models for Recommendation: From Architecture to Learning Paradigms and Deployment,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731696
+477,"Theory and Toolkits for User Simulation in the Era of Generative AI: User Modeling, Synthetic Data Generation, and System Evaluation",sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731697
+478,Robust-IR @ SIGIR 2025: The First Workshop on Robust Information Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730355
+479,2nd Workshop on Information Retrieval for Understudied Users (IR4U2) - Bridging User-centered AI with IR: Making Information Retrieval Accessible for All,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730356
+480,International Workshop on Algorithmic Bias in Search and Recommendation (BIAS 2025),sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730357
+481,ReNeuIR at SIGIR 2025: The Fourth Workshop on Reaching Efficiency in Neural Information Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730358
+482,"SIGIR 2025 Workshop on eCommerce (ECOM25): From Research to Product: Challenges, Lessons, and Opportunities in eCommerce Search and Recommendations",sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730359
+483,6th Workshop on Patent Text Mining and Semantic Technologies (PatentSemTech2025),sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730360
+484,Workshop on Explainability in Information Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730361
+485,IR-RAG @SIGIR25: The Second Edition of the Workshop on Information Retrieval's Role in RAG Systems,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730362
+486,Second SIGIR Workshop on Simulations for Information Access (Sim4IA 2025),sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730363
+487,The 1st NIP@IR Workshop on New Interaction Paradigms for Information Retrieval in the Era of Generative AI,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730364
+488,AgentIR: 2nd Workshop on Agent-based Information Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730365
+489,FinIR: The 2nd Workshop on Financial Information Retrieval in the Era of Generative AI,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730366
+490,LLM4Eval: Large Language Model for Evaluation in IR,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730367
+491,MANILA25: SIGIR 2025 Workshop on Information Retrieval for Climate Impact,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730368
+492,"GENNEXT: The Next Generation of IR and Recommender Systems with Language Agents, Generative Models, and Conversational AI",sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730369
+493,The LiveRAG Challenge at SIGIR 2025,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3733591
+494,Towards Explainable and Safe Systems for Health Data,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730121
+495,Strategic Multi-Agent Dynamics in Competitive IR,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730122
+496,Search Efficiency for Score-at-a-Time Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730123
+497,Continuous Evaluation in Information Retrieval Across Methods and Time,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730124
+498,The Agent Perspective In LLM-Based Strategic Information Retrieval Ecosystems,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730125
+499,Conversational Search: Towards Personalization and Evaluation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730126
+500,Enhancing AI Agents with Human Theory of Mind (ToM) for Context-Aware Actions,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730127
+501,Evaluating the Impact of Automated Labeling on Retrieval Instability in Neural IR,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730128
+502,Towards Efficient and Effective Multi-modal Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730129
+503,Enhancing Knowledge Injection in Large Language Models for Efficient and Trustworthy Responses,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730130
+504,From Professional Search to Generative Deep Research Systems: How Can Expert Oversight Improve Search Outcomes,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3730131
+505,A Generative Re-ranking Model for List-level Multi-objective Optimization at Taobao,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731935
+506,Graph Isomorphism Network-Based Cohort Modeling In Click-Through Rate Prediction,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731936
+507,MO-LightGBM: A Library for Multi-objective Learning to Rank with LightGBM,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731937
+508,Retrieval for Semantic People Search,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731938
+509,Adaptive Domain Scaling for Personalized Sequential Modeling in Recommenders,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731939
+510,Negative Exclusion Filtering: Optimizing Ad Delivery Efficiency for Large-Scale Social Media Platforms,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731940
+511,Examples as the Prompt: A Scalable Approach for Efficient LLM Adaptation in E-Commerce,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731941
+512,Post-event Modeling via Causal Optimal Transport for CTR Prediction,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731942
+513,IRA: Adaptive Interest-aware Representation and Alignment for Personalized Multi-interest Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731943
+514,ADORE: Autonomous Domain-Oriented Relevance Engine for E-commerce,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731944
+515,Embedding-based Retrieval in Multi-Modal Content Moderation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731945
+516,PaRT: Enhancing Proactive Social Chatbots with Personalized Real-Time Retrieval,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731946
+517,GRAIN: Group-Reinforced Adaptive Interaction Network for Cold-Start CTR Prediction in E-commerce Search,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731947
+518,From Keywords to Concepts: A Late Interaction Approach to Semantic Product Search on IKEA.com,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731948
+519,SuperRS: Multi Scenario Reciprocal-Aware Dual MoE for Unified Recommendation-Search Ranking,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731949
+520,MAAQR: An LLM-based Multi-Agent Framework for Adaptive Query Rewriting in Alipay Search,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731950
+521,Alleviating LLM-based Generative Retrieval Hallucination in Alipay Search,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731951
+522,Multi-objective Aligned Bidword Generation Model for E-commerce Search Advertising,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731952
+523,A System for Triggering Sports Instant Answers on Search Engines,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731953
+524,Defining & Optimizing Quality of LinkedIn's Content Search,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731954
+525,Language Model Alignment for Conversational Shopping at Amazon,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731955
+526,Inquiry Assistant Using LLM-Generated Knowledge Graphs,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731956
+527,Retrieval-Augmented Image Captioning and Generation with Entity Concepts Enhancement for Baidu Multimodal Advertising,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731957
+528,Optimize Visual Shopping Journey with Embedding-based Retrieval in Pinterest Closeup,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731958
+529,Insight Agents: An LLM-Based Multi-Agent System for Data Insights,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731959
+530,Towards Improving Image Quality in Second-Hand Marketplaces with LLMs,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731960
+531,Learning Universal User Representations Leveraging Cross-domain User Intent at Snapchat,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731961
+532,"Content Moderation in TV Search: Balancing Policy Compliance, Relevance, and User Experience",sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731962
+533,Towards More Relevant Product Search Ranking with Fulfillment Intent Understanding,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731963
+534,Ontology-Guided Knowledge Graph Retrieval for Multi-Hop and Cross-Granularity Store Fulfillment Queries,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731964
+535,Large Scale Deployment of BERT Based Cross Encoder Model for Re-Ranking in Walmart Search Engine,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731965
+536,Progressive Refinement of E-commerce Search Ranking Based on Short-Term Activities of the Buyer,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731966
+537,Robust Inverse Retrieval in Online Advertising with Contrastive Learning,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731967
+538,Pyramid Mixer: Multi-dimensional Multi-period Interest Modeling for Sequential Recommendation,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731968
+539,Data-efficient Meta-models for Evaluation of Context-based Questions and Answers in LLMs,sigir,2025,https://dl.acm.org/doi/pdf/10.1145/3726302.3731969
